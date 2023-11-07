@@ -2,7 +2,7 @@
     "title": "AAI ATC JE Full Test 1",
     "rc": "",
     "instruction": "<h1 class=\"Inst_header\">General Instructions</h1><br>The Test contain 5 Sections having total 120 Questions.Each question has 4 options out of which only one is correct.You have to finish the test in 120 minutes.<p>You will be awarded 1&nbsp;mark&nbsp;for each correct answer and there is no negative marking.</p>\n<p>Once you start the test, you will not be allowed to reattempt it. Make sure that you complete the&nbsp;test before you submit the test and/or close the browser.</p>\n",
-    "time": 7200,
+    "quiztime": 7200,
     "quiz": [
         {
             "position": 1,
