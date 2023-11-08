@@ -1,0 +1,657 @@
+{
+    "title": "Quiz 1 - Number Series",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> Directions (1 - 50): What will come in place of the question mark (?) in the following number series?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 2, &nbsp; 17, &nbsp;&nbsp; 47, &nbsp; ?, &nbsp; 152, &nbsp; 227</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   23</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   92</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   93</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   85</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   89</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 1, 1, 2, 4.5,&nbsp;&nbsp;&nbsp;&nbsp; ? ,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 30</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   7</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 960, 839, 758, 709,&nbsp;&nbsp;&nbsp;&nbsp; ? ,&nbsp;&nbsp;&nbsp;&nbsp; 675</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   698</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   694</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   684</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   648</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   680</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 37, ? , 103, 169, 257,&nbsp; 367</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   49</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   46</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   56</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   59</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   93</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 1, 17, 81, 225,&nbsp;&nbsp;&nbsp;&nbsp; 481,&nbsp;&nbsp;&nbsp;&nbsp; ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   525</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   841</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   881</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   729</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 2096, 1572, 1179, 884.25,&nbsp;&nbsp;&nbsp;&nbsp; ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   673.2135</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   663.1875</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   573.2915</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   660.25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 29, 43, 71, ? ,&nbsp;&nbsp;&nbsp;&nbsp; 239,&nbsp;&nbsp;&nbsp;&nbsp; 463</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   125</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   127</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   113</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   112</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   129</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 3, 8, 16, 33, 57, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   83</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   88</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   94</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   97</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   100</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 15, 7.5, 7.5, 15, 60, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   480</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   256</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   216</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   512</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   420</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"167\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11632404/image008.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   195</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   210</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   200</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   199</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"167\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11632405/image010.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   180</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   155</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   170</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   120</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 12, 62, 102, 132, ? , 162</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   152</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   156</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   150</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   148</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   145</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 1, &nbsp; 2, &nbsp; 6, &nbsp; ? ,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 88,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 445</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   18</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   20</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   21</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   24</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   26</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"165\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11632408/image012.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   184</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   243</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   234</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   232</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 14, 15, 32, 99, ?, 2005</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   354</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   372</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   400</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   368</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   324</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 67, 75, 59, 91, 27, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  131</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  137</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  155</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   355</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  165</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 21, 23, 37, 71, 133, ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   321</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   231</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   319</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   237</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   235</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  &nbsp;&nbsp; &nbsp;46, 267, 462, 631, 774, ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   381</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   895</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   978</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   891</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   869</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 3, 1731,&nbsp; ? ,&nbsp; 3243, 3459, 3523 </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2371</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2731</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3731</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3127</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 10, 18, 34,&nbsp; &nbsp;&nbsp;&nbsp;? , 130, 258</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   32</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   60</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   66</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   68</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 9, &nbsp; 19, &nbsp; 40, &nbsp; 83,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ? ,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 345,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 696</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   162</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   170</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   175 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   166</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 980, 484, 236, 112, 50, ? , 3.5</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   17</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   241</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   29</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 325 &nbsp; 314 &nbsp;&nbsp;&nbsp; 288 &nbsp;&nbsp;&nbsp; 247&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 191&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   126</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   116</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   130</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   120</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 45&nbsp; &nbsp; &nbsp;&nbsp;46&nbsp; &nbsp; &nbsp;&nbsp;70&nbsp;&nbsp; &nbsp; &nbsp;141&nbsp; &nbsp; &nbsp; ?&nbsp; &nbsp; &nbsp; &nbsp; 1061.5</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   353</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   353.5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   352.5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   352</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> ?, 7800, 1560, 390, 130, 65</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   47120</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   49900</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   46800</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   48350</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 26,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 7, 11, 19, ?, 67, 131</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   35</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   23</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   46</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   51</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 27,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 8,&nbsp; 9,&nbsp; 17,&nbsp; 26,&nbsp; 90,&nbsp; ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   121 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   109 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   115 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   125 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   111</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 28,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 96,&nbsp; 48,&nbsp; 72,&nbsp; 180,&nbsp; ?,&nbsp; 2835 </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   570</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   630</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   575</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   612</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   484</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 29,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 982, 977, 967, 947, 907, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   879</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   817</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   809</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   897</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   827</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 30,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 41472, 5184, 576, 72, 8, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   0</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   8</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 31,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 4, 9, 20, 43, 84, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   149</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   157</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   191</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   145</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   137</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 32,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 13, 15, 20, 37, 102, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   351</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   359</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   375</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   377</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   363</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 33,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> &nbsp;7, 11, 38, 54, ?, 215</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   179</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   151</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   125</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   135</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   115</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 34,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 15 &nbsp;&nbsp; 25&nbsp; &nbsp; 40&nbsp; &nbsp; &nbsp; 65&nbsp; &nbsp; ?&nbsp; &nbsp; 195</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   115</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   90</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   105</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   120</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 35,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 12, &nbsp; 12, &nbsp; 18, &nbsp; 36,&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;90,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 270,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   945</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   810</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1080</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1215</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 36,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 3, 4, 16, 75, 364, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   783</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   828</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1293</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1945</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 37,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 2890, ?, 1162, 874, 730, 658 </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1684</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1738</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1784</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1672</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1584 </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 38,
+            "text": "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"151\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11632432/image045.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   75</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   76</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   60</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   65</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 39,
+            "text": "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"188\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11632433/image048.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   310</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   300</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   305</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   315</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 40,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 374, &nbsp; 355, &nbsp; 317, &nbsp; ? , &nbsp; 184, &nbsp; 89</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   248</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   255</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   265</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   278</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   260</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 41,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 69, 74, 67, 78, 65, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   85</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   78</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   82</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   84</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   75</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 42,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 1024, 512, ? , 16, 1, 0.03125</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   64</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   128</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   256</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   216</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   324</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 43,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 1, 5, 7, 19, 21,&nbsp; 41,&nbsp; 43,&nbsp; ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   72</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   71</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   52</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   85</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 44,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 2, 3, 6, 18, 108, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   126 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1944&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   648 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   756 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1188</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 45,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 800, 400, 200,&nbsp; 100,&nbsp; 50, ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   20</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   30</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   35</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 46,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 100 &nbsp;&nbsp; 100 &nbsp;&nbsp;&nbsp; 119&nbsp; &nbsp; &nbsp; ?&nbsp; &nbsp; &nbsp; &nbsp; 299 &nbsp;&nbsp;&nbsp; 562</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  170</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  176</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  174</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  184</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  164</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 47,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 5, 6, 16, 57,&nbsp; ? ,&nbsp; 1245</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   244</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   148</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   296</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   271</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 48,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 7&nbsp; 8&nbsp; 16&nbsp; 43&nbsp; ?&nbsp; 232 </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   204</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   107 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   119</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   89</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 49,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 7, 35, 210, ?, 6300, 31500</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1040</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1060</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1080</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1030</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 50,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 286 ,142, ?, 34, 16, 7</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   66 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   72</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   64 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   74</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

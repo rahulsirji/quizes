@@ -1,0 +1,267 @@
+{
+    "title": "Quiz 3 - Coding & Decoding",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> Directions (Q. 16– 20): Study the following information carefully and answer the question given below:</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">In a certain language, </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">“music bus door window” is written as “mk dg pt bt”</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">“door bus book pen” is written as “mg st mk bt”</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">“office pen table mobile” is written as “ab ak st kb”</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">“mobile door window laptop” is written as “dg bg ak mk”&nbsp;</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  If “train pencil” is written as “tg rg” then what is the code of “chair”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kt</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mx</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   pg</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code of “bus”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   tx</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mx</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   bx</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code of “pen”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   tg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ab</span></p><p><span data-redactor-span=\"true\"> </span></p><p><span data-redactor-span=\"true\">&nbsp;</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following could be coded as “pg bx tg”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   car movie bus</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   movie bus train</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   car movie train</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   pencil car movie</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   pen car bus</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code of “milk”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ab</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kt</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   “ab” or “kt”</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   “ab” or “mg”</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code for “fan”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kb</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   bp</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   md</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   bx</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  “st” is code of which of the following word?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Table</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Car</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Mobile</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Ball</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following could be coded as “mt bx gt”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   page chair ball</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   page chair table</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   chair table car</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Either 1 or 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Either 2 or 3</span></p><p><span data-redactor-span=\"true\"> </span></p><p><span data-redactor-span=\"true\">&nbsp;</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following could be coded as “kb”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Car</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Fan</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Page</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Box</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code of “word”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ab</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  bp</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   st</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code for “bike”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   pt</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   sb</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code for “pen”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   fb</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   sb</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mp</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following could be coded as “bx pt km”</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Word bike train</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Word car bus</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Bike train fan</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Word box car</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Bike table bus</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  “kg” is the code of which of the following word?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Bike</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Bus</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Car</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Table</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Pen</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code of “Pencil letter”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  tb</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  pg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  sb</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Either 1 or 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Either 1 or 3</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code for “laptop”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   bg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mk</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   dg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ak</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the code for “pen”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   st</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mk</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   bt</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following could be written as “pt bt”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Music and mobile</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Bus and mobile</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Music and bus</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Window and bus</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  “dg” is the code of which of the following?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Window</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Door</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Bus</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Can’t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Music</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What can be coded as “table office fan”?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kb ab ak</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   kb mg xg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ab kb xg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ab dg bg</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Times New Roman&quot;, serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  kb ab bt</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

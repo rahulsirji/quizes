@@ -1,0 +1,332 @@
+{
+    "title": "Dam and Rivers - Part 1",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Nizam Sagar dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manjira </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pennar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Krishna </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gosthani</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Krishna</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Ukai dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Banas </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tapi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sabarmati </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karjan </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Jawai dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chambal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Banas </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Jawai </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Narmada</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Rajghat dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tawq</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Son</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Narmada </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Barna</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Betwa</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Pandoh dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sutlej </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Beas</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Ravi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Saga </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Narmada </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Salal dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chenab</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Barna </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tawa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Betwa </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Maithon dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Subernekha</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Damodar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Barakar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Lakhya</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Ghataprabha </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Tunga Bhadra dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Cauvery</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kali</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kalinadi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tungabhadra </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sharavathi </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Banasura dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Malampuzha</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kabini</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Periyar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pennar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kaliyar </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Yeldari dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Godavari </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mula</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pawna</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bhima </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Purna</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Balimela dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sileru</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Indravati </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahanadi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Brahmani </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kolab</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Vaigai dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chittar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Muran</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Vaigai</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Aliyar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Periyar</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Somasila dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gandipalem </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manjira </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Godavari </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Krishna</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pennar</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Dharoi dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tapi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sabarmati </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Narmada </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karjan </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Bisalpur dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pali</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Banas </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chambal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Narmada </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Barna dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chambal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Son</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Narmada </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Betwa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Barna</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Bhakra Nangal dam over located in which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Ravi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Beas</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sutlej</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tawa</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Baglihar dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Damodar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Barakar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chenab</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kaveri </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Krishna </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Chandil dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Barakar </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Subernarekha </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Lakya</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Ravi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Linganamakki dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sharavathi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Krishna </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kali </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Cauvery</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sutlej </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Kadra dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Krishna</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kalinadi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Godavari</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Ghataprabha</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tawa </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Malampuzha dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Periyar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Malampuzha</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kaliyar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Walayar</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Ujani dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Purna </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Godavari </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mula</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bhima </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Meetha</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Pawna dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bhima</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Periyar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Varna</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Ganga </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pawma </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Indravati dam is located over which of the following rivers? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Pench </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chambal </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Indravati</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mahanadi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Muran</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

@@ -1,0 +1,332 @@
+{
+    "title": "Quiz 4 - Direction Sense",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Directions (21-25): Study the following information carefully and answer the below questions.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">X@Y(12m): X is 17m north of Y</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">X#Y(13m): X is 7m south of Y</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">X$Y(13m): X is 21m east of Y</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">X%Y(20m): X is 13m west of Y</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">X&amp;YC: X is middle of Y and C</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Note: X#$Y means X is southeast of Y</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">M@N(7); O#P(12); O$N(9); P%R(14); Q#R(19); Q$S(11)</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between Tanima and Pooja?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   19</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   17</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √381</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √329</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Who among the following people scored fewer marks than the one who stands extreme east of Upasna?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">I. Wardha</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">II. Tanima</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">III. Zeba</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only I</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only II</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only III</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both I and II</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both I and III</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the difference between the marks scored by Vedha and Vidhi?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   05</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   04</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   09</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   16</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  How many persons scored more marks than the one who is exactly to the east of Wardha?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Two</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Three</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Four</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Five</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between Tanima and the person who north of Upasna ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   22</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   16</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √481</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √329</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Statement: P – Q ^ R &amp; S + T, U + Q</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">U is in which direction with respect to T and the shortest distance between them?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   North, 2 √13m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   South, 3 √35m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   North West, 3 √21m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   South East, 2 √26m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   South, 5 √6m</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Statement: P – Q ^ R &amp; S + T, U + Q</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">What is the shortest distance between S and U?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √53m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √59 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √61 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   √67 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Statement: P –&nbsp; Q^ R &amp; S + T, U + Q</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">a point V is drawn from point U towards 2 m north of U. Then P is in what direction and shortest distance from V?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 √33m, northeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   5 √23m southeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2√17 m southwest</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4 √19m northwest</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  E &amp; F ^ G- H / I &amp; J</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">If a line is drawn to join E &amp; J and E &amp; I. What will be the new figure and area of the new figure drawn?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Triangle 14m</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rectangle 20m</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Square 16m</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Triangle 10m</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  E &amp; F ^ G- H / I &amp; J</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">In which direction E with respect to J and shortest distance between them?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   northeast. √34m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Southwest, √23m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northeast, √39m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   southwest, √29m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Anjali’s house is in which direction with respect to the spa?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   South</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Southeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northwest</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   East</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between the mall and Anjali’s house?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4√61</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2√61</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3√31</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   5√21</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between house and cab stand? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3√123</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 √53</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2√181</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3 √61</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is direction of office from mall?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Southeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Southwest</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northwest</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  If Anjali goes from Spa to the Pub which is 15 km to the west of the Spa, then the mobile shop is in which direction and at how many distance from the Pub?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   south 10 km</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   West 10 km</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   North West 15 km</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   North 18 km</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between the initial position of Eshwaran and final position of Jatin?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   8√19 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   17 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   5√11 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   23 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the direction of initial position of Jatin with respect to final position of Amit?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   North</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   West</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northwest</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Northeast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Southwest</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between the final position of Amit and initial position of Jatin?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2√17 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3√19 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   5√23 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3√13 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  If Amit had stopped at point T which is 5m north from Binod instead of point C, then what would be the shortest distance between initial and final position of Amit?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   15 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   13 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between the final B and initial position of Amit?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   7√131</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   9√181</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   13√129</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   5√157</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  If E&amp;NO, then what is the direction of E with respect to Q?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   @%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   #$</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   #%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   @$</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   @</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the approximate shortest distance between S and O?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   13m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   14m</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  In which direction is Z with respect to P, if Z&amp;SQ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   #</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   #$</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   #%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   @</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Four of the following five are alike in a certain way and hence form a group. Find the one that doesn’t belong to that group.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   SM</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   PQ</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   RO</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   NP</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   QS</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is the shortest distance between M and Q?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   33.5m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   30.5m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   28.5m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25.5m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

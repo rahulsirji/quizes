@@ -1,0 +1,247 @@
+{
+    "title": "Quiz 2 - Modals",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is ‘No error’, the answer is (d).</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  After you will return(a)/ from Mumbai(b)/ I will come to meet you.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  My father(a)/ has left(b)/ for Bombay last Saturday.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  I used to study(a)/ till 10pm and(b)/ then I go to bed.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Air pollution caused by industrial fumes has been studied(a)/ for years, but only recently has(b)/ the harmful effects of noise pollution become known.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The judge asked the man(a)/ if the bag he had lost(b)/ contain five thousand rupees(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  As you can see(a)/ by my visiting card(b)/ that now I am in Mumbai.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The ministry was considered several proposals(a)/ for the development of small and medium enterprises(b)/ during budget discussions.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Having work(a)/ in both public and private sector banks(b)/ she is the most suitable person to take over the post of the Chairman.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  He started a very small business two years ago(a)/ but it grew very fast(b)/ as the country is experiencing a boom at that time.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Keeping in mind the current market conditions(a)/ it has better for us(b)/ to invest in the infrastructure structure.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Since I have lived there for many years(a)/ the villagers were very comfortable(b)/ talked to me about all their problems.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Our equipment gets(a)/ damage very often in summer(b)/ because there are too many power cuts.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  A sharp rise in the prices of petrol(a)/ has lead to an increase(b)/ in the prices of all the commodities.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The newspaper which does not accept advertisements and is fund entirely(a)/ by donations describes itself as the(b)/ most popular newspaper on the planet.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Leaders enable a group by imagining(a)/ and create a future(b)/ which will fulfill the purpose of the group.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Economists have predicted that(a)/ the country’s economic growth(b)/ falls low to 8% this year.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  He firmly belief that(a)/ if any disease is detected early then(b)/ it can be cured by yoga.(c)/No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Her goal is to win a gold medal(a)/ in the Asian games and(b)/ made her country proud.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  I remember in my youth I was used(a)/ to go with my father to his shop and looked(b)/ into his account books.(c)/ No error</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The members of the musical group have(a)/ accepted that they have been contributing money from their pockets(b)/ in the initial years to meet the expenses of the group.(c)/ No error(d)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

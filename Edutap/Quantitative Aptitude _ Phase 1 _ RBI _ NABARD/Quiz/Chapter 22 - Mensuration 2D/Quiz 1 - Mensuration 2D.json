@@ -1,0 +1,657 @@
+{
+    "title": "Quiz 1 - Mensuration 2D",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The perimeter of two squares are 24 cm and 32 cm. The perimeter (in cm) of a third square equal in area to the sum of the areas of these squares is: </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   45</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   40</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   32</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   48</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  If the area of a rectangle be </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"95\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637475/image008.png\"></span><span data-redactor-span=\"true\">&nbsp;sq. cm, then one of the possible perimeter of it is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"62\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637475/image009.png\"></span><span data-redactor-span=\"true\">cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"62\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637475/image010.png\"></span><span data-redactor-span=\"true\">&nbsp;cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"57\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637475/image011.png\"></span><span data-redactor-span=\"true\">cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"57\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637475/image012.png\"></span><span data-redactor-span=\"true\">cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> &nbsp;The sides of a triangle are in the ratio </span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"47\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637476/image018.png\"></span><span data-redactor-span=\"true\">&nbsp;If the perimeter of the triangle is 52 cm, the length of the smallest side is: </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   24 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   9 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> From a point in the interior of an equilateral triangle, the perpendicular distance of the sides are </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"18\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637477/image024.png\"></span><span data-redactor-span=\"true\">cm, </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"26\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637477/image025.png\"></span><span data-redactor-span=\"true\">&nbsp;cm and </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"26\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637477/image026.png\"></span><span data-redactor-span=\"true\">&nbsp;cm. The perimeter (in cm) of the triangle is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   64</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   32</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   48</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   24</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Through each vertex of a triangle, a line parallel to the opposite side is drawn. The ratio of the perimeter of the new triangle, thus formed, with that of the original triangle is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3 : 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4 : 1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 : 1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The area of an equilateral triangle is 4</span><span class=\"non-editable\" style=\"top: 5.33333px; position: relative; padding: 0px 5px;\"><img width=\"18\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637479/image038.png\"></span><span data-redactor-span=\"true\">&nbsp; sq. cm. Its perimeter is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   8 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The perimeter of a rhombus is 40 cm. If the length of one of its diagonals be 12 cm, the length of the other diagonal is&nbsp; </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   14 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   15 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   16 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The sides of a triangle are in the ratio </span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"44\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637482/image050.png\"></span><span data-redactor-span=\"true\">&nbsp;and its perimeter is 91 cm. The difference of the length of longest side and that of shortest side is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   19 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   20 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   28 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   21 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A circular wire of radius 42 cm is bent in the form of a rectangle whose sides are in the ratio of 6: 5. The smaller side of the rectangle is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  30 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  60 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   36 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A wire when bent in the form of a square encloses an area of 484 sq. cm. What will be the enclosed area when the same wire is bent into the form of a circle ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   462 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   539 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   616 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   693 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> If the perimeter of a square and a rectangle are the same, then the area P and Q enclosed by them would satisfy the condition </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   P &lt; Q</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   P≤ Q</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   P &gt; Q</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   P = Q</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> If the sides of an equilateral triangle are increased by 20%, 30% and 50% respectively&nbsp; to form a new triangle, the increase in the perimeter of the equilateral triangle is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"40\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637486/image068.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   75%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   100%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A horse is tied to a post by a rope. If the horse moves along a circular path always keeping the rope stretched and describes 88 metres when it has traced out 72° at the centre, the length of the rope is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   70 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   75 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   80 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   65 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> ABCD is a parallelogram in which diagonals AC and BD intersect at O. If E, F, G and H are the mid points of AO, DO, CO and BO respectively, then the ratio of the perimeter of the quadrilateral EFGH to the perimeter of parallelogram ABCD is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : 4 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 : 3 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The difference between the circumference and diameter of a circle is 150 m. The radius of that circle is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25 metre </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   35 metre</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   30 metre</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   40 metre</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Three sides of a triangular field are of length 15 m, 20 m and 25 m long respectively. Find the cost of sowing seeds in the field at the rate of 5 rupees per sq. m.&nbsp; </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 300 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 600</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 750 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 150 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The radius of a wheel is 21 cm. How many revolutions will it make in travelling 924 metres ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   7 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   200</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   700</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A playground is in the shape of a rectangle. A sum of Rs. 1,000 was spent to make the ground usable at the rate of 25 paise per sq. m. The breadth of the ground is 50 m. If the length of the ground is increased by 20 m, what will be the expenditure (in rupees) at the same rate per sq. m. ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1,250 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1,000</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1,500</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2,250 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Three circles of radii 3.5 cm, 4.5 cm and 5.5 cm touch each other externally. Then the perimeter of the triangle formed by joining the centres of the circles, in cm, is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   27</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"169\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637493/image098.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   27π </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   13.5 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Length of a side of a square inscribed in a circle is </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"26\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637494/image100.png\"></span><span data-redactor-span=\"true\">&nbsp;units. The circumference of the circle is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 π</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"9\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637494/image101.png\"></span><span data-redactor-span=\"true\">&nbsp;units</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"17\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637494/image102.png\"></span><span data-redactor-span=\"true\">&nbsp;units</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"29\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637494/image103.png\"></span><span data-redactor-span=\"true\">units</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"13\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637494/image104.png\"></span><span data-redactor-span=\"true\">&nbsp;units</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> If the perimeter of an equilateral triangle be 18 cm, then the length of each median is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  4</span><span class=\"non-editable\" style=\"top: 5.33333px; position: relative; padding: 0px 5px;\"><img width=\"18\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637495/image038.png\"></span><span data-redactor-span=\"true\">&nbsp; cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"26\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637495/image109.png\"></span><span data-redactor-span=\"true\">&nbsp;&nbsp; cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"26\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637495/image110.png\"></span><span data-redactor-span=\"true\">&nbsp; cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"26\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637495/image111.png\"></span><span data-redactor-span=\"true\">&nbsp; cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The wheel of a motor car makes 1000 revolutions in moving 440 m. the diameter (in metre) of the wheel is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   0.44</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   0.14</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   0.25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   0.34</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> 360 sq. cm and 250 sq. cm are the area of two similar triangles. If the length of one of the sides of the first triangle be 8 cm, then the length of the corresponding side of the second triangle is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"6\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637497/image118.png\"></span><span data-redactor-span=\"true\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"6\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637497/image119.png\"></span><span data-redactor-span=\"true\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"6\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637497/image120.png\"></span><span data-redactor-span=\"true\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The area of a field in the shape of a trapezium measures 1440 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"19\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637498/image126.png\"></span><span data-redactor-span=\"true\">. The perpendicular distance between its parallel sides is 24 m. If the ratio of the parallel sides is 5 : 3, the length of the longer parallel side is:</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   75 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   45 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   120 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   60 m</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The area of a rhombus is 150 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637499/image003.png\"></span><span data-redactor-span=\"true\">. The length of one of its diagonals is 10 cm. The length of the other diagonal is:</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   30 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   35 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   40 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 26,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> If the measure of one side and one diagonal of a rhombus are 10 cm and 16 cm respectively, then its area (in </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637500/image003.png\"></span><span data-redactor-span=\"true\">) is:</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   60</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   64</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   96</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   100</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 27,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The ratio of the length of the parallel sides of a trapezium is 3 : 2. The shortest distance between them is 15 cm. If the area of the trapezium is 450 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637501/image003.png\"></span><span data-redactor-span=\"true\">, the sum of the length of the parallel sides is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   15 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   36 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   42 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   60 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 28,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> ABCD is a trapezium in which AB || DC and AB = 2 CD. The diagonals AC and BD meet at O. The ratio of area of triangle AOB and COD is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : 1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"18\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637502/image140.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4 : 1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : 4</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 29,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The area of a regular hexagon of side 2</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"18\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637503/image024.png\"></span><span data-redactor-span=\"true\">&nbsp;cm is:</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   18</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"46\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637503/image143.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"46\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637503/image143.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   36</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"46\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637503/image143.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   27</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"46\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637503/image143.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 30,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Given that PB and QA are perpendiculars to segment AB (PB &amp; QA are in opposite direction). If PO = 5 cm, QO = 7 cm, and area </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"111\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637504/image147.png\"></span><span data-redactor-span=\"true\">&nbsp;find the area of </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"9\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637504/image148.png\"></span><span data-redactor-span=\"true\">QOA. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   225 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637504/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   450 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637504/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   294 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637504/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   300 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637504/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 31,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> If base of a triangle and height of that triangle became half then find the ratio of initial area and final area of the triangle. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4 : 1 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 : 1 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1 : 4 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 32,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> ABC is a right angle triangle AC is 2</span><span class=\"non-editable\" style=\"top: 5.33333px; position: relative; padding: 0px 5px;\"><img width=\"26\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637506/image162.png\"></span><span data-redactor-span=\"true\">&nbsp;cm and difference between AB and BC is 2. Find area of triangle?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   18 sq. cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   24 sq. cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 33,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Radius of the two circles are 15 cms and 20 cms and distance between their centres are 25 cms then find out the length of the common chord. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   24 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   15 cm&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   20 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 34,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> ABCD is a parallelogram and ABEF is a rectangle, line EF is situated on CD if AB = 7 cm. and BE = 6.5 cm then area of parallelogram </span><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"126\" height=\"110\" id=\"Picture 48\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637508/image176.jpg\" style=\"box-sizing: inherit; border: 0px; max-width: 100%; display: inline-block; vertical-align: initial !important; outline: 0px !important; height: auto !important;\" data-image=\"q9fxs1h6y49z\" class=\"img img-responsive\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   22.75 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637508/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11.375 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637508/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"56\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637508/image175.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   45.0 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637508/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 35,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> ABCD is a quadrilateral in which diagonal BD = 64 cm AL </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"10\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image177.png\"></span><span data-redactor-span=\"true\">&nbsp;BD and CM </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"10\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image177.png\"></span><span data-redactor-span=\"true\">&nbsp;BD, such that AL = 13.2 cm and CM = 16.8 cm. The area of the quadrilateral ABCD is- </span><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"174\" height=\"103\" id=\"Picture 2\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image181.jpg\" style=\"box-sizing: inherit; border: 0px; max-width: 100%; display: inline-block; vertical-align: initial !important; outline: 0px !important; height: auto !important;\" data-image=\"kicsgtxvfn0v\" class=\"img img-responsive\"></span><span data-redactor-span=\"true\"> </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"61\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image178.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"53\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image179.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"53\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image180.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"61\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637509/image178.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 36,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> &nbsp;&nbsp;a and b are two sides adjacent to the right angle of a right-angled triangle and p is the perpendicular drawn to the hypotenuse from the opposite vertex. Then </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"15\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637510/image185.png\"></span><span data-redactor-span=\"true\">&nbsp;is equal to?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"46\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637510/image186.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"41\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637510/image187.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"31\" height=\"30\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637510/image188.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"46\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637510/image189.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 37,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A is the centre of circle whose radius is 8 and B is the centre of a circle whose diameter is 8. If these two circles touch externally, then the area of the circle with diameter AB is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   36 π </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   64 π </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   144 π </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   256 π </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 38,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> In ∆ABC, D and E are two points on the sides AB and AC respectively so that DE || BC and </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"41\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637512/image195.png\"></span><span data-redactor-span=\"true\">. Then </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"141\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637512/image196.png\"></span><span data-redactor-span=\"true\">&nbsp;is equal to </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"6\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637512/image197.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"12\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637512/image198.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"17\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637512/image199.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"17\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637512/image200.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 39,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The perimeter of a triangle is 54 m and its sides are in the ratio of 5 : 6 : 7. The area of the triangle is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   18 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   54</span><span class=\"non-editable\" style=\"top: 5.33333px; position: relative; padding: 0px 5px;\"><img width=\"18\" height=\"21\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637513/image214.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   54</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   25 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 40,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The lengths of two parallel sides of a trapezium are 6 cm and 8 cm. If the height of the trapezium be 4 cm, then its area is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   38&nbsp; sq. cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   28 sq. cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   30 sq. cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   30 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 41,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A circular garden is developed inside the square plot which is exactly fit into the square. What is the area of the space left out in the square plot after developing the garden and also find the total cost to fence the circular garden if the cost of fencing the circular plot is Rs. 18 per meter? The side of the square plot is 14 m.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   38 Sq. m, Rs. 854 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   42 Sq. m, Rs. 792 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   54 Sq. m, Rs. 948</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   28 Sq. m, Rs. 696 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 42,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The perimeter of equilateral triangle&nbsp; is half of the perimeter of rectangle whose length and width are 12 and 9 metres. Find the approximate amount to gravel the place, if the cost of gravelling the place is Rs. 12 per sq. meter.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 255 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 340 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 210 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Rs. 395 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 43,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The place is in the shape of Rhombus. We have to fence the place to safe that. The cost of fencing the place is Rs. 15 per meter. Find the total cost to fencing the place and also find the area of the place if the diagonals are 12 and 16 m.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   168 sq m, Rs. 500 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   124 sq m, Rs. 700 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  96 sq m, Rs. 600</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   76 sq m, Rs. 800 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 44,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> If the breadth of the triangle is increased by 25% and height of the triangle is decreased by 20%, then find the percentage change in&nbsp;&nbsp;area of the newly formed triangle?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  10% decrease</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  No change</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  10% increase</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  20% decrease</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   20% increase</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 45,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A rhombus shaped sheet with perimeter 40 cm and one diagonal 12 cm, is painted on both sides at the rate of ₹ 5 per cm</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\">. Find the cost of painting.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Rs. 620</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Rs. 740</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Rs. 820</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  Rs. 960</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 46,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Given that H is the midpoint of GF and EF is the diameter of circle. The circle is inscribed with the square ABCD. Circumference of the circle is 44 cm. </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> &nbsp; </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"125\" height=\"135\" id=\"Picture 16\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637520/image228.jpg\"></span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Quantity I</span><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"12\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637520/image229.png\"></span><span data-redactor-span=\"true\">&nbsp;27.5 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637520/image230.png\"></span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Quantity II</span><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"12\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637520/image229.png\"></span><span data-redactor-span=\"true\">&nbsp;Area of the shaded region</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &gt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &lt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≥ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≤ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I = Quantity II or No relation</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 47,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> &nbsp;In the figure given below, ACB is a right angled triangle. CD is the altitude. Circles are inscribed within the triangles ACD, BCD. P and Q are the centres of the circles. </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"228\" height=\"139\" id=\"Picture 17\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637521/image241.jpg\"></span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Quantity I</span><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"12\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637521/image229.png\"></span><span data-redactor-span=\"true\">&nbsp;The distance PQ</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Quantity II</span><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"12\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637521/image229.png\"></span><span data-redactor-span=\"true\">&nbsp;7 </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &gt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &lt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≥ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≤ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I = Quantity II or No relation</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 48,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Quantity I –</span><span data-redactor-span=\"true\"> Area of shadowed part. PQRS is a diameter of a circle whose radius is 1 unit. The lengths of PQ, QR and RS are equal. </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"127\" height=\"117\" id=\"Picture 18\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637522/image247.jpg\"></span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Quantity II –</span><span data-redactor-span=\"true\"> Area of shaded region. In the following figure, ABCD is a rectangle with AD and DC equal to 1 and 2 units, respectively. Two quarter circle are drawn with centers at B and A, respectively. Now a circle is drawn touching both the quarter circles and done of the sides of rectangle. </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"165\" height=\"101\" id=\"Picture 19\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637522/image248.jpg\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &gt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &lt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≥ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≤ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I = Quantity II or No relation</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 49,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Quantity I: The area of the largest circle that can be drawn inside a rectangle with sides 18 cm and 14 cm.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Quantity II: The area of a rhombus whose diagonals are 24 cm and 10 cm.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &gt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &lt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≥ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≤ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I = Quantity II or No relation</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 50,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"125\" height=\"164\" id=\"Picture 20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637524/image263.jpg\"></span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Quantity I – . The radius of the incircle.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Quantity II– one-fifth of semi-perimeter of triangle ABC.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &gt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I &lt; Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≥ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I ≤ Quantity II </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Quantity I = Quantity II or No relation</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

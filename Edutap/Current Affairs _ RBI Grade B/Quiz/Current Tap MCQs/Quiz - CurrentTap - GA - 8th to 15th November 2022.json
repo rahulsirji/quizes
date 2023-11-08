@@ -1,0 +1,826 @@
+{
+    "title": "Quiz - CurrentTap - GA - 8th to 15th November 2022",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Tokhü Emong Bird Count (TEBC), the first avian documentation exercise has taken place in which of the following states of India?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Assam</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Nagaland</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Sikkim</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Meghalaya</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Odisha</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following has become the 1st state to introduce uniform gold price based on bank rate?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Andhra Pradesh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Karnataka</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Uttar Pradesh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rajasthan</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> India’s 1st National repository for Life Science Data supported by Department of Biotechnology has recently (Nov 2022) been setup at which of the following places?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bengaluru, Karnataka</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hyderabad, Telangana</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Faridabad, Haryana</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kolkata, West Bengal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ahmedabad, Gujarat</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">Recently (Nov 2022), World’s first Vedic Clock is set to be installed in Ujjain, Madhya Pradesh at an estimated cost of ____________.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 1.62 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 3.62 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 5.62 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 10.62 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 7.62 crore</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following has become 1st Indian fisheries start-up to get ISO 27001 certification?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bijak</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Otipy</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Fyllo</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Aquaconnect</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Arya.ag</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), India's first privately developed rocket ‘Vikram-S’ has been launched by ISRO. The rocket has been developed by which of the following companies?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dhruva Space</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Pixxel</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Skyroot Aerospace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bellatrix Aerospace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> AgniKul Cosmos</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently in November 2022, who among the following has become the 1</span><sup data-redactor-span=\"true\">st</sup><span data-redactor-span=\"true\"> Indian to be awarded Bailey K Ashford medal for his work in Tropical medicines?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dr Nikunj Solanki</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dr Sanjiv Mehta</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dr VK Singh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dr Subhash Babu</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> None of the above</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), an MoU has been inked between Inland Waterways Authority of India and Cochin Shipyard Limited to build the country’s first hydrogen fuel cell catamaran in Varanasi, (Uttar Pradesh). Design and development will be done by CSL in collaboration with which of the following companies/organizations?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rail Vikas Nigam Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> KPIT Technologies Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Zensar Technologies</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bharat Electronics Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Defence Research and Development Organisation</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following is the first feature film in Indian film history to have a star cast comprising only of indigenous people?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mathrubhumi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dhabari Quruvi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Banjara</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Jai Bhim</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Visaranai</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), who among the following has become the first player to reach 4,000 T20I Runs?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Suryakumar Yadav</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ben Stokes</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kane Williamson</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Virat Kohli</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Tim Southee</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), first ever Joint Society Meeting of Autonomous Institutes of Ministry of Earth Sciences (MoES) has been held in New Delhi. Which of the following institutes is not part of the Joint Society Meeting of Autonomous Institutes of Ministry of Earth Sciences (MoES)?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Institute of Tropical Meteorology (IITM)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian National Centre for Ocean Information Services (INCOIS)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"background-color: rgb(255, 255, 255);\">India Meteorological Department (IMD)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> National Centre for Earth Science Studies (NCESS)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> National Centre for Polar and Ocean Research (NCPOR)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following in Uttar Pradesh aims to become a “net zero carbon emission” tourist destination by 2041?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Agra</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Varanasi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ayodhya</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mathura-Vrindavan</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Sarnath</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), PM of India has flagged off Chennai-Mysuru Vande Bharat Express from KSR Railway Station, Bengaluru (Karnataka). This is the ___________ Vande Bharat Express in India.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 2nd</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 5th</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 3rd</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 7th</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 8th</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), as per an announcement by the Ministry of AYUSH, India’s Ayush Sector is set to increase its market share to what amount globally by 2023?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 13 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 43 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 23 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 36 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 29 billion</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Minister of Power has recently (Nov 2022) launched Green Energy Open Access Portal which aims to ensure affordable, reliable, sustainable, and green energy for all. The portal has been designed and developed by which of the following organisations?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Power Grid Corporation of India</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Power System Operation Corporation Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> REC Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> NTPC Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> SJVN</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), under Green Mobility Initiative ___________ has inducted a fleet of 12 Tata Nexon Electric Vehicles.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Navy </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Army</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Air Force</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Border Security Force</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Coast Guard</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Union Agriculture minister has inaugurated the first Greenfield</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">Farm Machinery Plant of ____________ at Pithampur, Madhya Pradesh.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Eicher Motors</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Sonalika Internationals</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Escorts</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mahindra &amp; Mahindra</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Tractors and Farm Equipment Limited (TAFE)</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following banks has partnered with Arzoo to offer purchase cards to retailers which offer interest-free credit for up to a month and a credit limit of up to Rs 1 crore?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> HDFC Bank</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> State Bank of India</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Canara Bank</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> City Union Bank</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kotak Mahindra Bank</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Cochin Shipyard has inked a pact with IIT Madras to catalyse growth of marine start-ups. Under this initiative, start-ups can get up to ___________ as seed</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">grants.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> ₹50 lakh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> ₹1 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> ₹5 lakh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> ₹75 lakh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> ₹25 lakh</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Delhi Metro Rail Corporation (DMRC) has signed an MoU with which of the following companies to develop Indigenous Communication-based Train Control System (i-CBTC)?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bharat Dynamics Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bharat Electronics Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rail Vikas Nigam Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hindustan Aeronautics Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> RailTel</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), BEE (Bureau of Energy Efficiency) has signed an MoU with which of the following organizations to promote energy efficiency financing for MSMEs?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Small Industries Development Bank of India (SIDBI)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> State Bank of India</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Asian Development Bank</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> IDBI Bank</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> World Bank</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Asian Infrastructure Investment Bank (AIIB) and the Global Energy Alliance for People and Planet (GEAPP) have partnered to accelerate Green Energy Transition by mobilizing up to ______________.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 500 million</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 1.5 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 2 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 1 billion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USD 750 million</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), TVS motor has signed an MoU with which of the following</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">companies to scale its EV deployment?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Flipkart</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Amazon India</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Jubilant Foodworks</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Delhivery</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> E-Kart</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), BSNL has got Government approval to sign ____________ 4G deal with Tata Consultancy Services (TCS).</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 16,821 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 21,821 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 26,821 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 32,821 crore</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rs 6,821 crore</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following defence companies has signed an MoU with Aerosense Tech for co-operation in the development and marketing of drones and soft kill aerial anti-drone?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hindustan Aeronautics Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mahindra Aerospace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bharat Dynamics Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Tata Advanced Systems Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bharat Electronics Limited</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 26,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), India has participated in World Travel Market 2022 (WTM) at London to step up recovery of Inbound tourism. What was the theme of this year's WTM exhibition?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The Future of Travel Starts Now</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Resilience, Innovation and Response</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Find the Incredible You</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Invest in Tourism</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Responsible Tourism</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 27,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), a 5-day focused workshop titled “Cities Creditworthiness Academy” has been organized by which of the following organizations with an aim to create an enabling ecosystem for financing future cities of India?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Department of Economic Affairs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ministry of Housing &amp; Urban Affairs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> World Bank Group</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 2 and 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1, 2 and 3</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 28,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), ‘Telemedicon 2022’, 18th International Telemedicine Conference has been held at which of the following places?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dehradun, Uttarakhand</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hyderabad, Telangana</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kochi, Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ahmedabad, Gujarat</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mumbai, Maharashtra</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 29,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following mutual fund houses has launched Nifty IT ETF and Nifty Private Bank ETF?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> UTI Mutual Fund</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Axis Mutual Fund</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> DSP Mutual Fund</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> HDFC Mutual Fund</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mirae Asset Mutual Fund</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 30,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following corporate companies has posted highest-ever quarterly profit of Rs. 13,265 crore in second quarter, thus becoming the most profitable company in Q2?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Asian paints</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Reliance Industries Limited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Infosys</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> TCS</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> State Bank of India</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 31,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following apps has launched Unified Payment Interface (UPI) Autopay for subscription-based purchases of apps in India?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Samsung store</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Google Play</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Microsoft Store</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> PlayStation Store</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> App Store</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 32,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following lending startups has received a licence from the Reserve Bank of India to set up a non-banking financial company?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ftcash</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Lendbox</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> i-lend</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Faircent</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Lendenclub</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 33,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), ISRO has tested a rocket engine ‘Agnilet’, developed by which of the following companies?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bellatrix Aerospace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dhruva Space</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Pixxel</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Agnikul Cosmos</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Satellize</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 34,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), NASA has confirmed a mission to explore ‘Golden’ Asteroid _______________ a 140-mile-wide/226-kilometer wide asteroid.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 10 Psyche</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 24 Omega</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 16 Omega</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 16 Psyche</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> None of the the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 35,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> MALABAR exercise was initiated in 1992. Its 26th edition has recently (Nov 2022) been held between which of the following countries?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Australia, Japan, India and United Kingdom</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> India and United States</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> India, Australia, UAE and United States</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> India and France</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Australia, Japan, India and United States</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 36,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), ____________ is the first occasion for the LCA Tejas and the recently inducted LCH Prachand to participate in any international exercise.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Malabar Exercise</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> SLINEX</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indra Exercise</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> SIMBEX</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Garuda Exercise</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 37,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), The ________ edition of the ‘Pan-India’ Coastal Defence Exercise ‘Sea Vigil-22’ has been conducted by the Indian Navy in coordination with the Coast Guard and other ministries entrusted with the task of maritime activities.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1st</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 4th</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 6th</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 3rd</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 5th</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 38,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Defence Research &amp; Development Organization (DRDO) has launched testing &amp; evaluation facility for sonar systems of Indian Navy at which of the following facilities?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Centre for Air Borne System (CABS)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Defence Electronics Research Laboratory (DLRL)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Naval Physical &amp; Oceanographic Laboratory (NPOL)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Advanced Systems Laboratory (ASL)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Naval Materials Research Laboratory (NMRL)</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 39,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), ‘Veerangana Sewa Kendra’, a single window facility for welfare and grievances redressal of veer naris has been launched by which of the following forces?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Navy</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Coast Guard</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Army</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> CRPF</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Assam Rifles</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 40,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Indian men’s squash team won its first-ever gold medal, defeating _____________at the Asian Team Championships 2022.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Qatar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kuwait</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> China</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Japan</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indonesia</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 41,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> As per recent (Nov 2022) news, India will host Women’s World Boxing Championship in 2023. It will be the _________ time that Women’s World Championships will be conducted in India.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> First</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Third</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Second</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Fifth</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Seventh</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 42,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 8th ICC Men’s T20 World Cup 2022 has recently (Nov 2022) been held in Australia. Who among the following was named as the Player of the tournament?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Shaheen Shah Afridi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ben Stokes</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Virat Kohli</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Suryakumar Yadav</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Sam Curran</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 43,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> As per recent (Nov 2022), Khelo India National University Games, 2023-24 will be hosted by which of the following states/UTs?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Uttar Pradesh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Assam</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> West Bengal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Andaman &amp; Nicobar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Delhi</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 44,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The _______ region will become the first destination outside of Asia to host the Kabaddi World Cup in 2025.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> USA</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> UK</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> France</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Brazil</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Australia</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 45,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following institutes/organizations has been awarded with “India Agribusiness Awards 2022” for the best Agribusiness Award under Fisheries Sector?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Central Inland Fisheries Research Institute</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Central Institute Brackishwater Aquaculture</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Central Institute of Fisheries Technology</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> National Fisheries Development Board</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Central Marine Fisheries Research Institute</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 46,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), who among the following has been inducted in the ICC Hall of Fame?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Charlotte Edwards</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Wasim Akram</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Shivnarine Chanderpaul</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1 and 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1, 2 and 3</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 47,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), International Maritime Organization has awarded commendation certificates to the crews of which of the following Indian Ships?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> INS Kochi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> INS Kolkata</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Greatship Ahalya</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1 and 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1, 2 and 3</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 48,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), which of the following has been recognized as India’s most sustainable Oil &amp; Gas Company as per 2022 edition of the S&amp;P Dow Jones Sustainability Indices (DJSI) Corporate Sustainability Assessment (CSA) rankings?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hindustan Petroleum Corporation Limited (HPCL)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Oil Corporation (IOC)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bharat Petroleum Corporation Limited (BPCL)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Oil India Limited (OIL)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Reliance Industries Limited (RIL)</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 49,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), who among the following has received International Press institute (IPI) India Award for Excellence in Journalism, 2022?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The Print</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Saurabh Shukla from NDTV</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> The Hindu</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1 and 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1, 2 and 3</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 50,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Neeraj Chopra has been signed up as ‘Friendship Ambassador’ to promote tourism in which of the following countries?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Switzerland</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> France</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> India</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Japan</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Austria</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 51,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), who among the following has been appointed as chairperson of the 22</span><sup data-redactor-span=\"true\">nd</sup><span data-redactor-span=\"true\"> Law Commission of India?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Rituraj Awasthi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Uday Umesh Lalit</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ramesh Kejriwal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Aruna Miller</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> C. Anandharamakrishnan</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 52,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), who among the following has been elected as the new president of the International Hockey Federation (FIH)?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kishor Kumar Basa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mohammad Tayyab Ikram</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Narinder Batra</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bjorn Gulden</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kasper Rorsted</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 53,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently in November 2022, Greg Barclay has been re-elected as ________ chairman for a 2-year term.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> International Hockey Federation</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> FIFA</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> International Olympic Committee</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> International Cricket Council</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> World Anti-Doping Agency</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 54,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Natasa Pirc Musar has become the first female President of which of the following countries?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Slovenia</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Croatia</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hungary</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Spain</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Poland</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 55,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Olympian Yogeshwar Dutt has become the brand ambassador of which of the following companies?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> HDFC ERGO</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Lupin Pharma</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Zomato</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Religare Enterprises</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Niva Bupa</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 56,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Lewis Hamilton has been named as honorary citizen of which of the following countries?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> France</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Brazil</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> South Africa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Colombia</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Argentina</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 57,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), renowned Indian Mathematician, Padma Shri Awardee _____________ has passed away.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Urmila Balwant Apte</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> U. K. Anandavardhanan</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> RL Kashyap</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Anish Ghosh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Siva Athreya</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 58,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Rising Sun Water Fest-2022 has been organized in Umiam Lake, Meghalaya. The event is an initiative of which of the following entities?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Army</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Government of Assam</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Navy</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 2 and 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 1 and 2</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 59,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), India’s largest Miyawaki forest spread over 18 acres has been inaugurated in which of the following cities?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hyderabad</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mumbai</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> New Delhi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ahmedabad</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Bhopal</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 60,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), Anamalai Tiger Reserve has unveiled ___________ adoption scheme, under which non-governmental organisations, institutions, trusts or individuals can sponsor the expenses of Forest Department.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Leopard</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Tigers</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Sambar Deer</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Elephants</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Indian Pangolin</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 61,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> World Pneumonia Day is observed on which of the following days?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 12th November</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 8th November</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 6th November</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 14th November</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> 15th November</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 62,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Which of the following is the theme of 21st edition of World Science Day for Peace and Development which was observed on 10</span><sup data-redactor-span=\"true\">th</sup><span data-redactor-span=\"true\"> November?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Building Climate-Ready Communities</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Science for global understanding</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Partnerships for the Goals</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Basic Sciences for Sustainable Development</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> None of the above</span><span data-redactor-span=\"true\" style=\"font-weight: 700;\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 63,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Recently (Nov 2022), ‘Telemedicon 2022’, 18th International Telemedicine Conference has been held at which of the following places?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Dehradun, Uttarakhand</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Hyderabad, Telangana</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Kochi, Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Ahmedabad, Gujarat</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Calibri, sans-serif; font-size: 16.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Mumbai, Maharashtra</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

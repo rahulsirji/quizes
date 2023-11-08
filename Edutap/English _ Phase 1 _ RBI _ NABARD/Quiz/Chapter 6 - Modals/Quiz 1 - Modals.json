@@ -1,0 +1,247 @@
+{
+    "title": "Quiz 1 - Modals",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Read each sentence to find out whether there is any grammatical or idiomatic error in it. The error, if any, will be in one part of the sentence. The number of that part is the answer. If there is ‘No error’, the answer is (d).</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Keep him at arm's length lest you may not repent in the long run.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Keep him at arm's length lest you can not repent in the long run.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Keep him at arm's length lest you should not repent in the long run.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Keep him at arm's length lest you might not repent in the long run.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  He telephoned from a public call box so that the call would not be traced to his own address.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He telephoned from a public call box so that the call should not be traced to his own address.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He telephoned from a public call box so that the call may not be traced to his own address.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He telephoned from a public call box so that the call could not be traced to his own address.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  If the allegation made against him are found to be true he </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">could</span><span data-redactor-span=\"true\"> face rigorous imprisonment.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   may</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   can</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   would</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Jamshedji knew that an industrial revolution </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">can only be</span><span data-redactor-span=\"true\"> brought in the country by setting up iron and steel industry.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   may only be</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   should only be</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   could only be</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   might only be</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  He should not hurry; there is plenty of time.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He must not hurry; there is plenty of time.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He shall not hurry; there is plenty of time.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He must not hurry; there is plenty of time.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   He need not hurry; there is plenty of time.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  When I heard his knock I went to the door and opened it but I was not recognize him.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   When I heard his knock I went to the door and opened it but I can not recognize him.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   When I heard him knock I went to the door and opened it but I could not recognize him.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   When I heard his knock I went to the door and opened it but I may not recognize him.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   When I heard his knock I went to the door and opened it but I might not recognize him.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Neither the earthquake nor the subsequent fire was able to dampen the spirit of the residents.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Neither the earthquake nor the subsequent fire can able to dampen the spirit of the residents.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Neither the earthquake nor the subsequent fire could able to dampen the spirit of the residents.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Neither the earthquake nor the subsequent fire would able to dampen the spirit of the residents.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   No improvement</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  In order to save petrol motorists must have to be very cautious while driving along the highways.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   In order to save petrol motorists should have to be very cautious while driving along the highways.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   In order to save petrol motorists may have to be very cautious while driving along the highways.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   In order to save petrol motorists will have to be very cautious while driving along the highways.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   In order to save petrol motorists have to be very cautious while driving along the highways.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The notorious gang opened the door quietly and escaped in the dark with whatever they would collect.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The notorious gang opened the door quietly and escaped in the dark with whatever they could collect.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The notorious gang opened the door quietly and escaped in the dark with whatever they might collected.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The notorious gang opened the door quietly and escaped in the dark with whatever they collect.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The notorious gang opened the door quietly and escaped in the dark with whatever they would collected.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  People express their expectations that their leaders should not resorting to corrupt practices and nepotism.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   People express their expectations that their leaders may not resorting to corrupt practices and nepotism.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   People express their expectations that their leaders cannot resorting to corrupt practices and nepotism.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   People express their expectations that their leaders might not resorting to corrupt practices and nepotism.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   People express their expectations that their leaders should not resort to corrupt practices and nepotism.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Shard was entrusted with the task of co- ordination for yesterday's program but due to certain difficulties he does not do it.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Shard was entrusted with the task of co- ordination for yesterday's program but due to certain difficulties he can not do it.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Shard was entrusted with the task of co- ordination for yesterday's program but due to certain difficulties he would not do it.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Shard was entrusted with the task of coordination for yesterday's program but due to certain difficulties he did not do it.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Shard was entrusted with the task of co- ordination for yesterday's program but due to certain difficulties he will not do it.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  A doctor should do everything possible to save a patient.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   A doctor must do everything possible to save a patient.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   A doctor needs to do everything possible to save a patient.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   A doctor ought to do everything possible to save a patient.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What could have provoked him to behave in a rude manner at dinner?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   What would have provoked him to behave in a rude manner at dinner?</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   What might have provoked him to behave in a rude manner at dinner?</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   What must have provoked him to behave in a rude manner at dinner?</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   No improvement</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The chairman made it clear at the meeting that he will not step down from his position as chairman.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The chairman made it clear at the meeting that he would not step down from his position as chairman.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The chairman made it clear at the meeting that he is&nbsp;not step down from his position as chairman.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The chairman made it clear at the meeting that he cannot step down from his position as chairman.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The chairman made it clear at the meeting that he shall not step down from his position as chairman.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  I was afraid that if I asked him again he could refuse it.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   I was afraid that if I asked him again he can refuse it.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   I was afraid that if I asked him again he may refuse it.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   I was afraid that if I asked him again he will refuse it.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   I was afraid that if I asked him again he might refuse it.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> (a) The Government cannot/ (b) be able to&nbsp;contain/ (c) Encephalitis by spending just 1% of&nbsp;GDP on Health sector. / (d) No error</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> (a) When you were young/ (b) you ought to&nbsp;learn/ (c) good habits. / (d) No error.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> (a) Namita would broke / (b) a cup every&nbsp;day/ (c) when she came to Mumbai last month.&nbsp;/ (d) No error</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> (a)You need to work hard/ (b) but you need&nbsp;not/ (c) to waste time on unimportant lessons/&nbsp;(d) No error</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> (a) A soldier/ (b) could fight/ (c) for his&nbsp;country and save his country’s honour. / (d) No&nbsp;error.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> a</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> b</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> c</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> d</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

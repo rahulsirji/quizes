@@ -1,0 +1,267 @@
+{
+    "title": "Quiz 2 - Cloze- Test",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  In the following passage there are blanks, each of which has been numbered. These numbers are printed below the passage and against each, five words/phrases are suggested, one of which fits the blank appropriately. Find out the appropriate word/phrase in each case.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Scientists said on Wednesday they had (11)____ down the oldest known lizard, a tiny creature that lived about 240 million years ago when Earth had a single continent and dinosaurs were brand new.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Scans of the fossilized skeleton of Megachirella (12)____ the chameleon-sized reptile was an ancestor of today’s lizards and snakes, which belong to a group called squamates, an international team (13)____ in the science journal Nature.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">This finding (14)____ the group back in time by 75 million years, and means that “lizards (15)____ the planet since at least 240 million years ago,” study co-author Tiago Simoes of the University of Alberta in Canada said. That, in turn, suggested that squamates had already split from other ancient reptiles before the Permian/Triassic mass extinction some 252 million years ago, and survived it.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Up to 95% of marine- and 75% of terrestrial life on earth was lost.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Megachirella, (16)____ some 20 years ago buried in (17)____ sand and clay layers in the Dolomites mountain range in northeast Italy, was initially misclassified as a close lizard relative.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">But Mr. Simoes had questions. “When I first saw the fossil, I (18)____ it had important features that could link it to the early evolution of lizards,” he said. So, he hooked up with colleagues to perform a more (19)____ analysis of the tiny skeleton, which included CT scanning. The scans revealed previously unseen physical features, including the underside of the fossil, (20)____ in rock.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">The team found a tiny bone in Megachirella’s lower jaw that is unique to the squamate family.</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 1?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   pondered</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   considered</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   treasured</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   followed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 2?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   fling</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   passivity</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   idleness</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   endeavours</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 3?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   studied</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   gained</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   designed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   organised</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 4?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   lucid</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   older</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   complex</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   tangible</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 5?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   inspired</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   created</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   built</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   assured</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 6?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   enlighten</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   support</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   appease</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   arrange</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 7?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   desire</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   weakness</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   commencement</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   relevance</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 8?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   corrects</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   actions</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   gathers</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   collects</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 9?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   with</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   between</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   among</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   over</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 10?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   perpetual</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   disturbing</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   muddled</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   disordered</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   no replacement required</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 11?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   founded</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   tracked</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   footprinted</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   overlooked</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   passed</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 12?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   closed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   leaked</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   revealed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   confronted</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   concealed</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 13?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   autographed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   replied</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   wrote</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   associated</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   determined</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 14?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   yawned</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   cornered</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   continued</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   stopped</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   dragged</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 15?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   inhabited</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   presented</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   followed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   escaped</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   settled</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 16?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   realized</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   calculated</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   overlooked</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   discovered</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   curtained</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 17?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   flattened</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   compacted</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   condensed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   abbreviated</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   scattered</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 18?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   puzzled</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ignored</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   masked</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   accomplished</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   realized</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 19?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   listed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   unspecified</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   complicated</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   detailed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   unvarnished</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following is appropriate for blank 20?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   embedded</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   established</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   detached</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   dislodged</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(38, 38, 38); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   uprooted</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

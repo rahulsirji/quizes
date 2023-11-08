@@ -1,0 +1,657 @@
+{
+    "title": "Quiz 2 - Mensuration 2D",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  A cone of height 7 cm and base radius 1 cm is carved from a cuboidal block of wood 10 cm × 5 cm ×&nbsp; 2 cm. [Assuming π = </span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"12\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637681/image001.png\"></span><span data-redactor-span=\"true\">] The percentage wood wasted in the process is : </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"40\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637681/image002.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"40\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637681/image003.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"40\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637681/image004.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"32\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637681/image005.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Each of the height and base-radius of a cone is increased by 100%. The percentage increase in the volume of the cone is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   700%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   400%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   300%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   100%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The length, breadth and height of a cuboid are in the ratio 1 : 2 : 3. If they are increased by 100%, 200% and 200% respectively, then compared to the original volume the increase in the volume of the cuboid will be </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   5 times </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   18 times</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 times</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   17 times</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Each edge of a regular tetrahedron is 3 cm, then its volume is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"19\" height=\"31\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637686/image021.png\"></span><span data-redactor-span=\"true\">&nbsp;c.c.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"34\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637686/image022.png\"></span><span data-redactor-span=\"true\">&nbsp;c.c.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"19\" height=\"31\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637686/image023.png\"></span><span data-redactor-span=\"true\">&nbsp;c.c.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"26\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637686/image024.png\"></span><span data-redactor-span=\"true\">&nbsp;c.c.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The perimeter of triangular base of a right prism is 15 cm and radius of the incircle of the triangular base is 3 cm. If the volume of the prism be 270 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637687/image028.png\"></span><span data-redactor-span=\"true\">. Then the height of the prism is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   7.5 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  A well of diameter 20 m is dug 14 m deep and the earth taken out is spread all around it to a width of 5 m to form an cylindrical&nbsp;embankment. The height of the embankment is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11.2 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11.5 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Three solid metallic spheres of diameter 6 cm, 8 cm and 10 cm are melted and recast into a new solid sphere. The diameter of the new sphere is : </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   8 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  12 spheres of the same size are made by melting a solid cylinder of 16 cm diameter and 2 cm height. The diameter of each sphere is :&nbsp; </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   2 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"18\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637690/image049.png\"></span><span data-redactor-span=\"true\">&nbsp;cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  By melting a solid lead sphere of diameter 12 cm, three small spheres are made whose diameters are in the ratio 3 : 4 : 5. The radius (in cm) of the smallest sphere is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1.5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   4</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">A solid metallic sphere of radius 3 decimetres is melted to form a circular sheet of 1-millimeter thickness. The diameter of the sheet so formed is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   26 metres </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   24 metres</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 metres </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   6 metres </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;A right circular cylindrical tank has the storage capacity of 38808 ml. If the radius of the base of the cylinder is three-fourth of the height, what is the diameter of the base? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   28 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   56 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   21 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   42 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A room 8 metres long, 6 metres broad and 3 metres high has two windows of dimension </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"17\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637695/image077.png\"></span><span data-redactor-span=\"true\">&nbsp;m × 1 m and a door 2 m × </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"17\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637695/image077.png\"></span><span data-redactor-span=\"true\">&nbsp;m. Find the cost of papering the walls with paper 50 cm wide at 25 Paise per metre. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 21 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 27 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 33 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 39 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;In a right circular cone, the radius of its base is 7 cm and its height 24 cm. A cross-section is made through the midpoint of the height parallel to the base. The volume of the upper portion is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   168 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637696/image071.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   154 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637696/image071.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1078 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637696/image071.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   800 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637696/image071.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A cube and a sphere have equal surface areas. The ratio of their volumes is </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"9\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637697/image092.png\"></span><span data-redactor-span=\"true\">&nbsp;: 6 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"49\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637697/image093.png\"></span><span data-redactor-span=\"true\">&nbsp;</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"49\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637697/image094.png\"></span><span data-redactor-span=\"true\">&nbsp;</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   6 : </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"9\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637697/image092.png\"></span><span data-redactor-span=\"true\">&nbsp;</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A rectangular tank, measuring internally </span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637698/image101.png\"></span><span data-redactor-span=\"true\">&nbsp;metres in length, 12 metres in breadth and 8 metres in depth, is full of water. Find the weight of water in metric tons, given that one cubic metres of water weighs 1000 kilograms. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3584 metric tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3685 metric tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3756 metric tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3868 metric tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;Find the volume of a cylinder which has a height of 14 metres and a base of radius 3 metres. Also find the curved surface area of the cylinder. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"99\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637699/image104.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"99\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637699/image105.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"99\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637699/image106.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"99\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637699/image107.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;Find the volume, curved surface area and the total surface area of a hemisphere of radius 21 cm. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"206\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637700/image110.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"198\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637700/image111.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"214\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637700/image112.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"206\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637700/image113.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">Each of the radius and the height of a right circular cylinder is both increased by 10%. Find the percentage by which the volume increases. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   31.2%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   33.1% </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   35.1% </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   37.5%</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;A conical vessel, whose internal radius is 10 cm and height 48 cm, is full of water. If this water is poured into a cylindrical vessel with internal radius 20 cm, find the height to which the water rises in it. </span><span class=\"non-editable\" style=\"top: 11.3333px; position: relative; padding: 0px 5px;\"><img width=\"79\" height=\"29\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637702/image128.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   4 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   6 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   8 cm&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A right circular cone is exactly fitted inside a cube in such a way that the edges of the base of the cone are touching the edges of one of the faces of the cube and the vertex is on the opposite face of the cube. If the volume of cube is 343 cc, what approximately is the volume of the cone? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   80 cc </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   90 cc&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   110 cc&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   100 cc </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A well with 3.5 m radius is dug 40 m deep. Find the volume of the earth taken out of it. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1500 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"19\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637704/image136.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"32\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637704/image137.png\"></span><span data-redactor-span=\"true\">&nbsp;</span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"19\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637704/image136.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1540 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"19\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637704/image136.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1560 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"19\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637704/image136.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">The ratio between diameter of a sphere and height of a cone is 1 : 2. If their volumes are same, Find the ratio between their radii. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2: 3 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3: 2&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1: 1&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2: 1 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;Find the ratio among the volumes of a cylinder, a cone and a sphere that have same diameters and have heights equal to their diameters. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3: 1: 2 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3: 2: 1 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1: 2: 3 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2: 1: 3 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">Find the volume of the greatest sphere which may be put completely and gently in a cubical tank having each side 14 m. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"63\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637707/image147.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"63\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637707/image148.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"63\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637707/image149.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"63\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637707/image150.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A rectangular tank measuring internally </span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637708/image101.png\"></span><span data-redactor-span=\"true\">&nbsp;meters in length, 12 meters in breadth and 8 meters in depth, is full of water. Find the weight of water in metric tons, given that one cubic meter of water weighs 1000 kilograms. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3584 m tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3854 m tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3458 m tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3485 m tons </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 26,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A brick measures 20 cm by 10 cm by </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"17\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637709/image154.png\"></span><span data-redactor-span=\"true\">&nbsp;cm. How many bricks will be required for a wall 25 m long, 2m high and </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"6\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637709/image155.png\"></span><span data-redactor-span=\"true\">&nbsp;m thick? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2000</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   25000 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   20000 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2500 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 27,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A frustum of a right circular cone has a diameter of base 10 cm, of top 6 cm and a height of 5 cm; find the area of its whole surface and volume. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   242.25 </span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"94\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637710/image159.png\"></span><span data-redactor-span=\"true\">&nbsp;</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   282.25 </span><span class=\"non-editable\" style=\"top: 10px; padding: 0px 5px;\"><img width=\"65\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637710/image160.png\"></span><span data-redactor-span=\"true\">&nbsp;</span><span class=\"non-editable\" style=\"top: 6px; padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637710/image071.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"144\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637710/image161.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"144\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637710/image162.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 28,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;The diagram shows a section of a rocket firework. If this section can be completely filled with gunpowder, what is the volume of gunpowder required?&nbsp; </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> &nbsp;&nbsp;&nbsp; </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"132\" height=\"144\" id=\"Picture 1\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637711/image173.jpg\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"73\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637711/image174.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"73\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637711/image175.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"73\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637711/image176.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"73\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637711/image177.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 29,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;A wall 24 m long, 8 m high and 60 cm thick is made up of bricks, each measuring 24 cm × 12 cm × 8 cm, it being given that 10% of the volume of the wall consists of mortar. How many bricks will be needed? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   15000 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   45000 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   42000</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   60000 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 30,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">Water flows out through a circular pipe whose internal diameter is 2 cm, at the rate of 6 metres per second into a cylindrical tank, the radius of whose base is 60 cm. By how much will the level of water rise in 30 minutes? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3 m&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   4 m&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   5 m </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 31,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">&nbsp;A wooden box is made of a board 1 cm thick. It is 120 cm long, 80 cm wide and 60 cm high. Find the capacity of box and quantity of wood used. </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> &nbsp;&nbsp;&nbsp; </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"148\" height=\"115\" id=\"Picture 2\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637714/image197.jpg\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">  634629 cm</span><sup data-redactor-span=\"true\">3</sup><span data-redactor-span=\"true\">, 42268cm</span><sup data-redactor-span=\"true\">3</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  533832 cm</span><sup data-redactor-span=\"true\">3</sup><span data-redactor-span=\"true\">, 42168 cm</span><sup data-redactor-span=\"true\">3</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">  597382 cm</span><sup data-redactor-span=\"true\">3</sup><span data-redactor-span=\"true\">, 42754 cm</span><sup data-redactor-span=\"true\">3</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: &quot;Open Sans&quot;, sans-serif, Arial; font-size: 14px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">  483912 cm</span><sup data-redactor-span=\"true\">3</sup><span data-redactor-span=\"true\">, 248182 cm</span><sup data-redactor-span=\"true\">3</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 32,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A field is 500 m long and 30 m broad. A tank 30 m long 20 m broad and 12 deep is dig in the field and then earth is taken out of it is spread out of it equally over the field. How much does the level of field rise?</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> </span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> &nbsp;&nbsp;&nbsp; </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"134\" height=\"107\" id=\"Picture 3\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637715/image203.jpg\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   50 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   100 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   80 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   60 cm </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 33,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A farmer has four children. One day he decides to divide his field into triangular forms. The farmer’s field is in the shape of a rhombus and has the distance between the pairs of opposite vertices as 120 m and 22 m. What would be the cost of fencing the field at Rs. 20 per metre?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 7320&nbsp; </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 7720 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 8520 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 9,560 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 34,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">An equilateral triangle and a regular hexagon are inscribed in a given circle. If a and b are the lengths of their sides respectively, then which one of the following is correct? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"58\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637717/image208.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"58\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637717/image209.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"61\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637717/image210.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"58\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637717/image211.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 35,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A solid is composed of a cylinder with hemispherical ends. If the whole length of the solid is 104 cm and the radius of each of the hemispherical ends is 7 cm, find the cost of polishing its surface at the rate of Re 1 per 100</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"30\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637718/image218.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 42.68</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 40.76</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 48.70</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   Rs. 45. 76 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 36,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> Find the volume of&nbsp;a 3.5 m long lead pipe, if the external diameter of the pipe is 2.4 cm, and thickness of the metal is 2 mm. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   4.20 cm</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"50\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637719/image222.png\"></span><sup data-redactor-span=\"true\"><span lang=\"EN-US\">2</span></sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"31\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637719/image223.png\"></span><span data-redactor-span=\"true\">cm</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"27\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637719/image224.png\"></span><span data-redactor-span=\"true\">&nbsp;cm</span><sup data-redactor-span=\"true\">2</sup></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 37,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\"> A right triangle, whose, sides are 15 cm and 20 cm, is made to revolve about its hypotenuse. Find the volume and the surface area of the double cone so formed. (Use </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"9\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637720/image092.png\"></span><span data-redactor-span=\"true\">&nbsp;= 3.14) </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"104\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637720/image231.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"104\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637720/image232.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3768 </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"30\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637720/image233.png\"></span><span data-redactor-span=\"true\">&nbsp;420 </span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"9\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637720/image092.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3876 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"69\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637720/image234.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 38,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> &nbsp;A toy is in the form of a cone surmounted on a hemisphere. The radius of hemisphere and the cone is 3 cm each, height of the conical part of the toy is 4 cm. The total surface area of the toy is &nbsp;&nbsp;&nbsp;</span><span class=\"non-editable\" style=\"top: 11.3333px; position: relative; padding: 0px 5px;\"><img width=\"85\" height=\"29\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637721/image249.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   75.43 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637721/image250.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   103.71 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637721/image250.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   85.35 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637721/image250.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   120.71 </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637721/image250.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 39,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The height and the radius of the circular base of a cone are 9 cm and 3 cm respectively. The cone has been divided into two parts by a plane passing parallel to the base. The volume of frustum of this cone is&nbsp; 44 </span><span class=\"non-editable\" style=\"top: 6px; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637722/image028.png\"></span><span data-redactor-span=\"true\">. The radius of the upper circular face of the frustum is </span><span class=\"non-editable\" style=\"top: 11.3333px; padding: 0px 5px;\"><img width=\"85\" height=\"29\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637722/image249.png\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"27\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637722/image258.png\"></span><span data-redactor-span=\"true\" style=\"top: auto; position: static;\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"27\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637722/image259.png\"></span><span data-redactor-span=\"true\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"19\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637722/image260.png\"></span><span data-redactor-span=\"true\" style=\"top: auto; position: static;\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: 6px; position: relative;\"><p><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"27\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637722/image261.png\"></span><span data-redactor-span=\"true\" style=\"top: auto; position: static;\">&nbsp;cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 40,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The base of a right prism is an equilateral triangle with side 6 cm long. If the volume of the prism is 108</span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"18\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637724/image049.png\"></span><span data-redactor-span=\"true\">&nbsp;</span><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637724/image028.png\"></span><span data-redactor-span=\"true\">, its height is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   9 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   10 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   11 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   12 cm</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 41,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> A hall is 15 m long and 12 m wide. If the sum of the areas of its floor and roof is equal to the sum of the areas of its four walls, what will be the volume (in cubic metre) of this hall?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   720</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   900</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1200</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   1800</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 42,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> The length of the floor of a room is 20 m more than its breadth. The area of the floor remains unchanged even if its length is decreased by 10 m and breadth is increased by 5 m. The area of floor (in sq. m) is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   280</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   325</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   300</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   420</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 43,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A cube of side 3 cm is melted and smaller cubes of side 1 cm each are formed. How many such cubes are possible?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   21</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   23</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   27</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 44,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">If the heights of two cones are in the ratio 1 : 4 and their diameters are in the ratio 4 : 5, what is the ratio of their volumes?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2 : 21</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3 : 31</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   4 : 25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   5 : 25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 45,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">External and internal diameters of an empty sphere are 28 cm and 14 cm respectively. Find the volume of the metal which is required to make it.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   10061</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"37\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637729/image307.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   10061</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"37\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637729/image308.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   20061</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"37\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637729/image308.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   30061</span><span class=\"non-editable\" style=\"top: 10px; position: relative; padding: 0px 5px;\"><img width=\"37\" height=\"27\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637729/image307.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 46,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">The ratio between volumes of a hemisphere and a cone is 1 : 1. If the cone’s height is equal to its diameter. Find the ratio between diameters of hemisphere and cone.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2 : 1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1 : 1</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   3 : 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 47,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">Ratio of the volume of a cylinder with radius R and height H to the volume of a cylinder with radius H and height R is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"8\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637731/image317.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"15\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637731/image318.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"8\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637731/image319.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"15\" height=\"28\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637731/image320.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 48,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;The figure below shows the length of the sides of an equiangular polygon. What is the area of the polygon?</span><p style=\"text-align: justify;\"><span data-redactor-span=\"true\" style=\"font-family: &quot;Times New Roman&quot;; font-size: 9.33333px;\"> </span><p style=\"text-align: justify;\"><span class=\"non-editable\" style=\"padding: 0px 5px;\"><img width=\"164\" height=\"167\" id=\"Picture 23\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637732/image324.jpg\"></span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   14</span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"18\" height=\"22\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637732/image325.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   8</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   7</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 49,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">&nbsp;If three equal cubes are placed adjacently in a row, the ratio of the total surface of the new cuboid to that of the sum of the surface areas of the three cubes will be </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   5 : 9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   1 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   7 : 9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 50,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">A solid toy is in the form of a hemisphere surmounted by a right circular cone. Height of the cone is 2 cm and the diameter of the base is 4 cm. If a right circular cylinder circumscribes the solid, find how much more space will it cover?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   4π </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637734/image028.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   2π </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637734/image028.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   16π </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637734/image028.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   8π </span><span class=\"non-editable\" style=\"top: 6px; position: relative; padding: 0px 5px;\"><img width=\"25\" height=\"20\" src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/11637734/image028.png\"></span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(51, 51, 51); font-family: Cambria, serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

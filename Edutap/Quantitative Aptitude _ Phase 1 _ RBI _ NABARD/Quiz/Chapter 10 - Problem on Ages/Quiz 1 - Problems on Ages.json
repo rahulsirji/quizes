@@ -1,0 +1,657 @@
+{
+    "title": "Quiz 1 - Problems on Ages",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">&nbsp;A person‘s present age is two-ninth of the age of his mother. After 10 years, he will be four-eleventh of the age of his mother. How old is the mother after 15 years?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">48 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">60 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">55 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">53 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Ratio of the ages of A and B is 5 : x. A is 18 years younger to C. After nine years C will be 47 years old. If the difference between the ages of A and B is same as the age of C, what is the value of x?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 13</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 12 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 14.5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 13.25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">16 years ago, my Uncle was 8 times older than me. After 8 years from today, my uncle will be thrice as old as I will be at that time. Eight years ago, what was the ratio of my age and my uncle‘s age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 11:53</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 13:45</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 8:29</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5:32</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The sum of the present ages of A and B is 11 times the difference of their ages. 5 years hence, their total ages will be 13 times the difference of their ages. What is the present age of elder one?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">35 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">20 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">25 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The average age of a husband-wife and their son was 42 years. The son got married and exactly after 1 year a child was born to them. When the child became 5 years old, the average age of the family became 36 years. What was the age of the bride at the time of marriage?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">27 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">25 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">22 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">A says, If you reverse my own age, the figures represent my Brother‘s age. He is, of course, senior to me and the difference between our ages is one-eleventh of their sum. Then A‘s brother‘s age is ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">54</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">25</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">52</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">L is as much younger than M as he is older than N. If the sum of the ages of M and N is 60 years, what is definitely the difference between M and L‘s age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">3 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">2 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">5 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">Can‘t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">7 yrs</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">If three times of the son‘s age in years is included to the mother‘s age, the total is 75 and if two times of the mother‘s age is included to the son‘s age, the total is 80. So the son‘s age is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">15 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">18 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">14 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">22 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The ages of P, Q and R together are 57 years. Q is thrice as old as P and R is 12 years older than P. Then, the difference between ages Q and R is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">11 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">6 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">8 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">4 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">If 10 years are subtracted from the present age of Sharmi and the remainder is divided by 6, then the present age of his grandson Epsi is obtained. If Epsi is 2 years younger to Nove whose age is 7 years, then what is Sharmi‘s present age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">35 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">52 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">55 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Father is aged three times more than his son Arun. After 8 years, he would be two and a half times of Arun‘s age. After further 8 years, how many times would he be of Arun‘s age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 2 (1/2)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> (3 ½)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">In a family, a couple has a son and daughter. The age of the father is four times that of his daughter and the age of the son is half of his mother. The wife is ten years younger to her husband and the brother is six years older than his sister. What is the age of the mother?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">34</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">38</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">42</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Thomas‘s present age is three times his son‘s present age and half of his father‘s present age. The average of the present ages of all of them is 33 1/3 years. What is the difference between the Thomas‘s son‘s present age and Thomas‘s father‘s present age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">55 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">50 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">My brother is 3 years elder than me. My father was 28 years of age when my sister was born while my mother was 26 years of age when I was born. If my sister was 4 years of age when my brother was born, then what was the age of my father when my brother was born?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">35</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">32</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">P is as much younger than Q and he is older than R. If the sum of the ages of Q and R is 60 years, what is definitely the difference between Q and P‘s age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">4</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">Can‘t be determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">If 10 years are subtracted from the present age of Shyam and the remainder is divided by 7, then the present age of his grandson Santhosh is obtained. If Santhosh is 2 years younger to Madan whose age is 7 years, then what is Shyam's present age </span><span data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144);\">?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">48&nbsp;years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">36&nbsp;years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">35&nbsp;years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">A‘s age Is 120% of what it was 15 years ago, But 75 % of what it will be after 15 years. What is his present age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  50</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  45</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  65</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  56</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  None&nbsp;</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The ratio of the ages of M and N is 6 : 5. The total of their ages is 7.7 decades. The proportion of their ages after 1.5 decades will be [1 Decade = 10 years]</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 43:55</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 50:57</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 44:47</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 57:50</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The average age of a group of 10 students is 20 years. When 5 more students join the group, the average age increase by 2 year. The average age of the new students is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">24 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">26 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">25 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">28 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The average age of a couple was 26 years at the time of marriage. After 11 years of marriage, the average age of the family with 3 children become 19 years. The average age of the children is</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">8</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">6</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">10</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">7</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">If 10:13 is the ratio of present age of A and B respectively and 8:15 is the ratio between A‘s age 10 years ago and B‘s age 10 years hence. Then what will be the ratio of A‘s age 10 years hence and B‘s age 10 years ago ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 12:11</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 12:15</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 8:11</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 6:8</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Shyam‘s present age is 3/10 of his father‘s present age. Shyam‘s brother is 4 years older than him. The ratio between the present age of Shyam‘s father and Shyam‘s brother is 5:2. What is Shyam‘s present age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">6 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">12 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">15 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">16 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">In a family, a couple has a son and daughter. The age of the father is five times that of his daughter and the age of the son is half of his mother. The wife is ten years younger to her husband and the brother is ten years older than his sister. What is the age of the mother?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">50 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">65 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">If the ages of A and C are added to twice the age of B, the total becomes 59. If the ages of B and C are added to thrice the age of A, the total becomes 68 and if the age of A is added to thrice the age of B and thrice and age of C, the total becomes 108. What is the age of A?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">18 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">15 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">12 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">20 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span data-redactor-span=\"true\">The respective ratio between the present age of A and B is 5 : x. A is 2 years younger than C. C‘s age after 8 years will be 30 years. The difference between A‘s and B‘s age is the same as the present age of C. What is the value of x?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">8</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">10</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">12</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">14</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 26,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Meena married 10 years ago. Today her age is 7/5 times her age at the time of her marriage. Her daughter age is 1/5 of her age. What is the ratio of Meena‘s age to her daughter age after 5 years?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 10:3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 10:13</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 8:11</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5:9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 27,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Father is aged three times more than his son kavin. After 8 years, he would be two and a half times of kavin‘s age. After further 8 years, how many times would he be of kavin‘s age?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 4</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 2</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 28,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Mr. X has three sons namely P, Q and R. P is the eldest son of Mr. X while R is the youngest one. The present ages of all three of them are square numbers. The sum of their ages after 5 years is 44. What is the age of P after three years?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  15 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  13 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  19 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  17 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 29,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Three years ago the average age of Ramesh‘s family having 5 members was 17 years. Ramesh becomes father but the average age of his family is same today. What is the present age of baby?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">1 year</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">2 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">3 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">4 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 30,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The ratio between the present ages of A and B is 6:7. If B is 4 years old than A, what will be the ratio of the ages of A and after 4 years.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 7:8</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 7:9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 8:9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 6:5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 31,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Four years ago the ratio of ages of A &amp;B was 3 : 5 and five year hence the ratio will become 6:8. Find the present age of A?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">15 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">13 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">16 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">17 yrs</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">18 yrs</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 32,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Six year ago the ratio of ages of A &amp; B was 1:3 and after six year the ratio becomes 2:3. Find the sum of present ages of A &amp; B.</span><span data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-size: 14.6667px;\"> </span><span data-redactor-span=\"true\">&nbsp;</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">24</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">26</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">28</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30 </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">18</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 33,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The present ratio of ages of A &amp; B is 11:12 and the ratio of ages of A‘s 2yr back and B‘s 6yr after is 2:3. Find age of A 6yr after?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">28 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">26 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">36 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">18 yrs</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 34,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The average of 20 students class is 21. If the age of teacher is included then average increase by 2yr. Find age of teacher?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">60 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">63 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">66 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">61 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">55 yr</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 35,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Sita‘s present age is 1(2/5) times of her age at the time of marriage. She married 10yr ago. Now she has a son whose age is 1 more than 1/5th of her age at the time of marriage. Find the age of son?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">3 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">4 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">5 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">6 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">7 yrs</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 36,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The ratio of father and son‘s age is 7:4. The product of their ages is 2800. The ratio of their ages after 2yr will be ?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 7:12</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 12:7</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 3:5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5:3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 3: 7</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 37,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The sum of the ages of father and son is 45yrs. Five years ago the product of their ages was 4 times the father‘s age at that time. The present ages of father &amp; son are ? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 39,6</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 35,10</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 36,9</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 40,10</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 44, 1</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 38,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The ratio between the ages of father &amp; son at present is 7:3. 4yr hence the ratio between son &amp; his mother will be 1:2. Find the ratio of the present ages of father &amp; mother?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 3:4</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5:4</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 4:3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Can‘t determined</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 39,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Three years ago the father was 7 times as old as his son. Three year hence the father‘s age would be 4 times that of his son. Find present ages of father?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">25 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">35 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">55 yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">50 yr</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 40,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Mikesh was Twice as old as Ajay 20 yrs back. How old is Ajay today, if mikesh will be 50 yrs old 10 years hence?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">20yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">50yr</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45yrs</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 41,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Ratio of present age of Ajay and Benny is 7 : 9 and ratio of ages of Ajay 5 years back and age of Benny 5 years later is 3:5. Find the present age of Benny.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">35 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">50 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40 years</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 42,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">5 years ago the ratio of ages of A and B are 5:7 and 10 years hence from now ratio will become 4:5. Find the average of present age of A and B.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  30 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  40 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  35 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  45 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(144, 144, 144); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">  None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 43,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The present age of a son is 40% of his father age. And the age of his mother is 220% of his age. The average age of the three members is 38. Find the present age of the mother.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">50 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">22 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">10 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">44 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 44,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Rama got married 8 years ago. Her present age is 1 (1/3) times of her age at the time of marriage. She has a son who is one eighth of her present age. Then find the age of her son.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">4 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">3 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">2 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">5 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 45,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">A says to B ―I am thrice as old as you are when I was as old as you were. If age of B is 20 years find the age of A.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">60 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">30 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">45 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">36 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 46,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The fathers age is four times as much as the sum of the age of his three children but 6 years hence his age will be thrice as the sum of their age. The present age of father is?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">60 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">54 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">42 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">48 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 47,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">In a class of 20 students the average of all the students is 18 years. If the age of their teacher is added then the average becomes 19 years. Find the age of teacher after 5 year.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">44 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">39 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">43 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">38 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 48,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">In a family there are 5 brothers in a gap of 2 years. If their average age is 22 find the sum of eldest and youngest brother.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">42 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">40 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">38 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">44 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 49,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">Four years ago the ratio of ages of A and B is 3:5. After four years from now the ratio will be 5:7. Then find the ratio of their present age.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5:7</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 5:3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 2:3</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> 7:5</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 50,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">The average age of a couple at the time of their marriage was 22. Two years after the marriage their child was born. Now he is 4 years old. Find the average age of their present age.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">24 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">22 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">18 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">20 years</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Calibri, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

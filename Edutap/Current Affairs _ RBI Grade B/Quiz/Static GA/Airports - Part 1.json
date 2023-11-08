@@ -1,0 +1,332 @@
+{
+    "title": "Airports - Part 1",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Chattrapati Shivaji International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Maharashtra </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttar Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karnataka </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chattisgarh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Madhya Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Lal Bahadur Shastri International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gujarat </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttar Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> West Bengal </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Assam</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Bangalore International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tamil Nadu</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bihar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karnataka </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manipur</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mizoram</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Raja Bhoj International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Meghalaya </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Nagaland </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Arunchal Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Madhya Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Sardar Vallabh bhai Patel International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttarakhand </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gujarat </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Telangana </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Delhi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Silkim</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Thrivyandram International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Goa </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Rajasthan </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Jharkhand </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Andhra Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Calicut International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Odisha</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Punjab</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Maharashtra </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Uttar Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Netaji Subhash Chandra Bose International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karnataka </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chattisgarh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Madhya Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> West Bengal </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gujarat </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Lok Priya Gopinath Bardoli International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Assam</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> West Bengal </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tamil Nadu</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bihar</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Madurai International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manipur</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mizoram </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Meghalaya </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Nagaland </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tamil Nadu</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Chennai International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tamil Nadu</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Arunchal Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttarakhand </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Telangana </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Loknayak Jaiprakash Narayan International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Delhi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sikkim</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bihar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Rajasthan </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Jharkhand </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Tulihal International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Andhra Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Rajasthan </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Odisha </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manipur</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Lengpui Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Maharashtra </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttar Pradesh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karnataka </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mizoram </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chattisgarh</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Tezu Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Madhya Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Arunachal Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gujarat </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> West Bengal </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Guru Ram Das Ji International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Assam</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tamil Nadu </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bihar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manipur </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Jolly Grant Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Mizoram </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Meghalaya </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Nagaland </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Uttarakhand </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Arunchal Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Indira Gandhi International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttarakhand </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> New Delhi </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Telangana </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sikkim</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Pakyolg Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Goa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Sikkim</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Rajasthan </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Jharkhand</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Andhra Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Goa International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Goa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Odisha</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Maharashtra </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttar Pradesh </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Maharana Pratap International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Karnataka </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Rajasthan </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Chattisgarh</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Madhya Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Gujarat </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Veer Sabarkar International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Kerala</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> West Bengal</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Andaman and Nicobar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Assam</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Tamil Nadu</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Rajamundry Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Bihar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Manipur</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Mizoram</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Andhra Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Meghalaya </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Biju Patnayak Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Nagaland </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Arunachal Pradesh </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Uttarakhand </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Odisha</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Chandigarh International Airport is located in which of the following states? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Telangana </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Delhi</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Punjab </span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Goa</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(0, 0, 0); font-family: Arial, sans-serif; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\"> Rajasthan </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

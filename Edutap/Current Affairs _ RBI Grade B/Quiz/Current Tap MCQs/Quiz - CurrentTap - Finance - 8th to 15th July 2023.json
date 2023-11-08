@@ -1,0 +1,124 @@
+{
+    "title": "Quiz - CurrentTap - Finance - 8th to 15th July 2023",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 122, 183);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 122, 183);\"> Recently (July 2023), ‘X’ and India have launched a much-anticipated trade transaction in rupees, a move aimed at reducing dependence on the US dollar and strengthening regional currency and trade. This is the first time ‘X’ has done bilateral trade with a foreign country in addition to the US dollar. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Egypt</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Bangladesh</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> France</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Israel</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Vietnam</span><span data-redactor-span=\"true\" style=\"font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), ‘X’, through Kuala Lumpur-based fintech Curlec, has launched its first international payment gateway for the Malaysian market known as ‘Curlec by ‘X’’. Identify ‘X’? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Paytm</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Phonepe</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> CRED</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Razorpay</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Bhartpe</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), which of the following have collaborated to launch a FinTech accelerator for early-stage Indian start-ups called ‘inFINity’?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> PayU</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Amazon Web Services</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Chiratae Ventures</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 1 and 3</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 1, 2 and 3</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), ________ has announced the launch of UPI QR code interoperable with India's sovereign digital currency, Central Bank Digital Currency (CBDC).</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Axis Bank</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> HDFC Bank</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Bank of Baroda</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> State Bank of India</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> HSBC Bank</span><span data-redactor-span=\"true\" style=\"font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> </span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), the _________ has constituted a five-member working group for implementing the recommendations of the Reserve Bank of India’s committee on the “working of the Asset Reconstruction Companies (ARCs)”.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Indian Banks’ Association (IBA)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Reserve Bank of India (RBI)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Securities and Exchange Board of India (SEBI)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Ministry of Finance</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> State Bank of India (SBI)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), the Securities and Exchange Board of India (SEBI) has tightened the disclosure norms for listed companies under the LODR (Listing of Obligations and Disclosure Requirements) rules. The new framework came into effect from ___________.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> July 1, 2023</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> July 15, 2023</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> June 15, 2023 </span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> June 30, 2023</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> July 31, 2023</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), Google Pay has officially rolled out its Unified Payments Interface (UPI) LITE Payment feature. What is the cumulative transaction limit on UPI Lite in a day?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Rs 2000 </span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Rs 1000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Rs 5000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Rs 4000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Rs 10,000</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), the Reserve Bank of India (RBI) has cancelled the licence of two cooperative banks. The RBI can cancel a banks license under sub-section 4 of ________ of the Banking Regulation Act, 1949.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Section 22</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Section 28</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Section 20</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Section 15</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Section 12</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Recently (July 2023), the _________ has approved withdrawal of another 7,338 prosecutions pending before various courts under Special Arrears Clearance Drive-II.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> SEBI</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Reserve Bank of India (RBI)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Ministry of Corporate Affairs (MCA)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Ministry of Finance</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:15.3333px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}

@@ -1,0 +1,267 @@
+{
+    "title": "Quiz 3 - Reading Comprehension",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Read the following passage carefully and answer the questions given below it. Certain words have been printed in bold to help you locate them, while answering some of the questions.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">More than a third of all vaccinations done in the world each day are in India. With over 40,000 sites, it is heartening to see how India is shaping the COVID-19 vaccination programme. Yet, these are baby steps, and there is a long way ahead in covering the </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">vulnerable</span><span data-redactor-span=\"true\">. So far, India has vaccinated only 3.2% of the adult population. Although the country covered 2.6 million doses per day on March 15, the seven-day rolling average hovers only around 0.11 per 100 people. This slow pace, which is also cause for concern, does not constitute an appropriate response when compared to India’s true potential in scaling up vaccination.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">India has identified a target of 300 million vulnerable population, but there is neither a definitive time frame attached to it nor any specifics on the process. With COVID-19 cases on the rise again in different parts of the country, time is running out. If India can vaccinate 10 million people per day, the vulnerable can be protected over the next two to three months. However, this requires speeding up the pace by five times. Given that India has 300,000 trained vaccinators, nearly three million people can be covered each day by the public health workforce. They are trained in vaccinating millions of children routinely through outreach sessions. Thus, they can easily cover two million doses per day routinely. By expanding participation by private health facilities, it would be possible to cover more than seven to 10 million doses per day.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">To have a sustained campaign of 10 million doses per day, India will need to have a reasonable stockpile and production line of vaccines. Several other vaccines are available internationally with established </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">efficacy</span><span data-redactor-span=\"true\"> and safety, and can be approved under emergency use authorisation (EUA). The bridging study can be done while vaccines are rolled out under the EUA before access to the market. The government may proactively seek supplies from other manufacturers while rapid studies can assess safety and immunogenicity in the Indian context. The ongoing arrangement with Russia for the local production of Sputnik while the vaccine is already undergoing clinical trials in India is an excellent template of using Indian companies to roll out other vaccines. India has to balance compassion to supply vaccines to other countries with the compulsion to save the lives of millions of Indians, who are at risk of death due to serial waves hitting different parts of the country.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">Regulated sales in the private market should be used as a careful option to accelerate the vaccination campaign. The government should act as the assurer of quality and regulate the prices of all the vaccines in the country. Any person who is 18 years should be permitted to get any vaccine approved by India, at any designated place, and at a fixed price regulated by the government. This will scale up vaccination in the workplace settings across the country and for all others who can afford them. While this happens, the inequities in the health system, which systematically neglect the poor and the marginalised, should be looked into on priority. This can be done with the government as the sole provider of free vaccines and care for all Indians below the poverty line or who cannot afford to buy vaccines. Vaccinating people in </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">impoverished</span><span data-redactor-span=\"true\"> communities is a mandatory social responsibility.</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  According to the passage, which of the following sentences portray the crisis(es) in Shimla?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(I) There is irregular Electricity supply in Shimla.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(II) Educational institutes have been shut down.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(III) People are struggling for water accessibility.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(IV) Shortage of municipal drinking water supply in Shimla.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (I)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (I) and (II)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (II), (III) and (IV)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (I), (II) and (III)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All are correct</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  According to the passage, what is/ are the component (s) of unnecessary use of water? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Excess supply of water to other states.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Excess use of groundwater for personal use.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Large consumption of freshwater in agriculture.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (b) and (c)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All are correct.</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What efforts should India make to prevent itself from going dry?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(I) Research and development efforts should be focused on improving agricultural productivity with lower water usage.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(II) India should provide water- management awareness to its citizens.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(III) India should collaborate with other countries for learning water management techniques.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (I)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (I) and (III)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (II) and (III)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (III)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All are correct</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  How can we justify “water is a state subject” stated by the author?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   As water affects every state of economy.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   As a particular country can decide the future of water availability in their country.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   As state of a country is responsible for any water crises occurred.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   As different states have different water procurement process.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The appropriate title of the passage is,</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   India and Israel collaboration</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The Aadhaar and financial inclusion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Improving irrigation infrastructure</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   India to the brink of a water crisis</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   The global gross domestic product: IMF</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following alternatives among the five options provides the most similar meaning(s) of the word given in BOLD as used in the passage?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Dire</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   devour</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   revoke</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   unprecedent</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   appalling</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   extraneous</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following alternatives among the five options provides the most similar meaning(s) of the word given in BOLD as used in the passage?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Tapering off </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   tenable</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Abate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ameliorate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   repudiate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   inundate</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following alternatives among the five options provides the most similar meaning(s) of the word given in BOLD as used in the passage?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Inevitable</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   testimony</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   allude</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   inexorable</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   fester</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   eerie</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following alternatives among the five options provides the most opposite meaning(s) of the word given in BOLD as used in the passage?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Looming</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   punitive</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   humongous</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ambiguous</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   inimitable</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   receding</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following alternatives among the five options provides the most opposite meaning(s) of the word given in BOLD as used in the passage?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">Detriment</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   exacerbate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   farthing</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   privilege</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   covet</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   nuance</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following can be inferred from the passage?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Battery swapping model is more efficient than charging model.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   According to NITI Aayog, 40% of transportation system should go electric by 2030.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All diesel or petrol vehicles should be replaced by electric vehicles soon.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Improper management is the factor responsible for failure of EV model in Israel.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  How electric vehicles project can become feasible in India?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(I) by encouraging the use of less personal vehicles.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(II) by adopting battery swapping model to avoid traffic congestion.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(III) by employing long distance electrified vehicles in order to reduce pollution emission. (1 Marks)</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (I)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (III)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (I) and (II)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (II) and (III)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All are correct</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  According to the passage, how must Electric Vehicles be promoted by government? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   by incentivizing two- wheelers vehicles</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   by enhancing battery life</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   by providing personal cars</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   by subsidizing its batteries</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  According to the passage, how the electric mobility policy should be implemented? </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   through expert framework.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   by selecting five cities at a time to be electrified.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   by allowing both charging and swapping models to be there for battery backup.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (b) and (c)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All are correct</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Choose the appropriate title of the passage. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Step- by- Step approach to electric vehicles</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Faster Adoption and Manufacturing of Electric Vehicles</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Increasing pollution and traffic congestion</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Road map for electric vehicles in India</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Challenges in implementing electric vehicles</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  According to the first paragraph which of the following statements can be inferred?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   number of people getting infected with COVID-19 is larger than people get vaccinated per day</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   although good efforts made but there are still many gaps to cover in COVID-19 vaccination efforts</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   large population is the hurdle India is facing in COVID-19 programme to safeguard vulnerable</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Government is not able to meet demand of COVID-19 vaccine as there is lack of manufacturer.</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  What is/are the reason(s) for large gap in the number of infected and vaccinated people?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   people are not taking enough precautions to avoid COVID-19 cases</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   the again rise in the COVID-19 cases is much higher than before</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   shortfall of healthcare workers who are well trained in vaccination</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   many people seem to be unwilling to get vaccinated</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  How the rollout of the trial of vaccination in India is favorable for country?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   India will have opportunities to do more studies and research on pandemic</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   the Indian companies will have more scope for indigenous production</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   India will ensure efficacy of COVID-19 vaccine before its roll out</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   India will be able to cope up with the increasing number of cases in the second wave</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following statements is incorrect as per the information given in passage?</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(i) Government needs a more refined framework for the vaccination</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(ii) there is no serious health concern in the wave of COVID-19</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(iii) Government should bear the responsibility for equality in vaccination</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   only (i) &amp; (ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   only (ii) &amp; (iii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   only (iii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   only (ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All (i), (ii) and (iii)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Which of the following given words is most similar in meaning to </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">‘vulnerable’</span><span data-redactor-span=\"true\"> as used in the passage?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   retrieve</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   exposed</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   shortage</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ensuring</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   usurp</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

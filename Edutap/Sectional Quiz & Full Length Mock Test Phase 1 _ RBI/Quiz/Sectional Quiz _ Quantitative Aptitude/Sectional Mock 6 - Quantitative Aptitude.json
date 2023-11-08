@@ -1,0 +1,397 @@
+{
+    "title": "Sectional Mock 6 - Quantitative Aptitude",
+    "instruction": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> </span><span class=\"non-editable\" style=\"font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);; padding: 0 5px;\"><img src=\"https://learnyst.s3.amazonaws.com/schools/1915/questions/13016490/q31_wy3lhy.png\" data-image=\"9vqoowbpd4gr\" class=\"img img-responsive\"></span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 8, 12, 28, 72, 128, 228, 372</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 8</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 28</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 128</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 372</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 72</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 18, 27, 52, 101, 230, 391, 680</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 52</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 230</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 680</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 27</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 101</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 54, 28, 44, 113, ? , 1802.75</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 415.25</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 399.5</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 285.5 </span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 354</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 372</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> What should be the approximate speed for the Arpit in second quarter to reach the Jaipur at the same time as Ruby reaches Delhi.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 184 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 196 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 212 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 234 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> What is the difference between the time taken by Arpit and Ruby to travel 1500 Km from their respective ends.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 0.25 hour</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 0.5 hour</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 0.75 hour</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1 hour</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Find the average speed of Arpit throughout the journey.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 120 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 130 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 140 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 150 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 160 Km/hr</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> If Utkarsh, a bike rider starts riding his bike from Delhi at the same time Ruby starts travelling from Jaipur and they meet as she completes her 1/3 journey. What should be the requisite speed of bike rider.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 240 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 260 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 280 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 300 Km/hr</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 320 Km/hr</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> What is the ratio of time taken by Ruby to reach Delhi to the Average speed of Arpit?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 11 : 28</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 24 : 37</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 32 : 49</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 58 : 107</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> In a class 20% of the students passed in both Quant and Reasoning. 37.5% of the students failed in both the subjects while 65% students failed in Reasoning. If the difference between the students who passed in Quant and those who passed in Reasoning was 15 then find the total number of students in the class?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 100</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 110</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 120</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 130</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Roshan invested Rs. ‘x’ in scheme ‘A’ for 4 years and Rs. (x + 400) in scheme B for 6 years. If ratio of the simple interest p.a. offered by scheme ‘A’ and ‘B’ is 2:3, respectively and the ratio of interest received from scheme ‘A’ and ‘B’ is 52:135, respectively then find the value of x.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 2500</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 2600</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 2700</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 2800</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(0, 0, 0);\"> A boat goes to point A to B and come back to its starting point. Average speed of the boat is 18.75 km/hr. If the speed of boat in still water is 20 km/hr then find the distance travelled by boat in downstream in 4.5 hours.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 78 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 96.5 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 112.5 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 140 km</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> A player can take a maximum of 4 chances to hit a bottle with a flying disc. The probability of hitting the bottle at the first, second, third and fourth shots are 0.1, 0.2, 0.35 and 0.45, respectively. What is the probability that the player hits the bottle with the flying disc?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 0.7878</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 0.7896</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 0.7426</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 0.7654</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 0.7523</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> What is the ratio of the volume of the sphere to&nbsp;the volume of the cuboid?</span><span data-redactor-span=\"true\" style=\"font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> </span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">I) The total surface area of the sphere is 2464&nbsp;cm</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">.</span><span data-redactor-span=\"true\" style=\"font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> </span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">II) The length of the cuboid is 0.8 times of the&nbsp;radius of sphere. The breadth of the cuboid is&nbsp;40% of the length of the cuboid and the height of&nbsp;the cuboid is 120% of the radius of the sphere.</span><span data-redactor-span=\"true\" style=\"font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> </span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">III) The total surface area of the cuboid is 1150&nbsp;cm</span><sup data-redactor-span=\"true\">2 </sup><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">and the ratio of the length,&nbsp;breadth and height of the cuboid is 5: 3: 1</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> All I, II and III are sufficient</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Any two of the three are sufficient</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Either I and III or II only are sufficient</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Any one of the three is sufficient</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Even I, II and III together are not sufficient</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">180 m</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement I: The train crosses 240 m long&nbsp;platform in 24 seconds and also crosses a pole in&nbsp;9.6 seconds, then what is the length of train?</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement II: If the train crosses another 200 m&nbsp;long train running in opposite direction at the&nbsp;speed of 36 kmph which is 4 kmph less than the&nbsp;speed of first train in 18 seconds, then find the&nbsp;length of first train.</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement III: If the train crosses a man standing&nbsp;in a platform in 10.8 seconds and the same train&nbsp;crosses 220 m long tunnel in 24 seconds, then&nbsp;find the length of train A.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Both statement I and II is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Both statement I and III is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Only Statement II is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Only Statement I is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">120 days</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement I: A and B together can complete the&nbsp;work in 24 days and B and C together can&nbsp;complete the work in 20 days. If the ratio of the&nbsp;efficiency of A and C is 1: 2, in how many days A&nbsp;alone completes the work?</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement II: A alone complete 60% of the work&nbsp;in 9 days and B and C together can complete the&nbsp;work in 10 days. In how many days A, B and C&nbsp;together can complete the work?</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement III: A, B and C together can complete&nbsp;the work in 15 days and B and C together can&nbsp;complete the work in 30 days. If the ratio of the&nbsp;efficiency of A to B is 4: 3, in how many days C&nbsp;alone completes the work?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Both statement I and II are satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Both statement I and III are satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Only Statement II is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Only Statement I is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> All the statements are satisfied</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Rs. 16000</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement I: P and Q started a business with the&nbsp;investment of Rs. 10000 and Rs. 20000&nbsp;respectively. After 4 months, P invested Rs. 5000&nbsp;more but Q withdrew Rs. 10000. Find the share&nbsp;of P, if the total profit at the end of the year is Rs.&nbsp;32000?</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement II: The compound interest on a certain&nbsp;sum of money for 2 years at 10 % per annum is&nbsp;Rs. 3360. Then find the principal amount.&nbsp;</span><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\">Statement III: The difference between the simple&nbsp;interest and compound interest&nbsp;on a certain sum of money for 3 years at 8 % per&nbsp;annum is Rs. 354.816. Then find the sum?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Both statement I and II are satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Both statement I and III are satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> Only statement I is satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> All the three statements are satisfied</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Only statement II is satisfied</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> If the ratio of the number of the govt to private hospitals in state C is 7 : 5 then find the difference between the number of govt and private hospital in same state. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 60</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 80</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 100</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 120</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Number of hospitals in state D is what percent less/more than the number of hospitals in state B. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 25%</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 33.33%</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 40%</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 50%</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 66.66%</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Find the average number of hospitals in state B, C and D together.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 320</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 340</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 360</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 380 </span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(0, 0, 0);\"> In state E, number of private hospitals is 40% of the total number of hospitals. If the number of peoples work in each govt hospitals is 5 then find the total number of peoples who work in all govt hospitals together.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 1600</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 1650</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 1700</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 1750</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 1800</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 21,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> If the number of hospitals in state F is 40% more than the number of hospitals in state E then find the ratio of the number of hospitals in state A to F. </span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 2 : 3</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 3 : 5</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 5 : 6</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 7 : 5</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 22,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Find the value of k.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 336</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 252</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 125</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 192</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 23,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Find the equation whose roots are 1/a and 1/b.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 192x</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> + 28x + 1 = 0</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 192x</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> – 28x + 1 = 0</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 192x</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> + 28x - 1 = 0</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 192x</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> – 28x – 1 = 0</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 24,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Find the value of (a</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> – b</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\">).</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 112</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> -112</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 224</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> -224</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 25,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> Find the value of (k</span><sup data-redactor-span=\"true\">2</sup><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> + 4k – 7).</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 37425</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 37450</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 37525</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> 37550</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(0, 0, 0);font-family:Calibri, sans-serif;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(0, 0, 0);\"> None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 26,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">What is the number of total votes of village&nbsp;C?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 13450</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 15000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 16000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 17000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 18000</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 27,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> What is the ratio of valid votes of villages A&nbsp;to B?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 168:285</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 123:689</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 143:175</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 176:275</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 190:473</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 28,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">What is the average of the total votes of all&nbsp;villages?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 14300</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 13600</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 13500</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 12300</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 16500</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 29,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">What is the difference between the total&nbsp;votes of D and E?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 3000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 2000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 4000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 5000</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 30,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:700;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\">What is the ratio of winner votes of villages&nbsp;C to E?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1456:1123</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1144:5644</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1666:1125</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1346:3345</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:&quot;Open Sans&quot;, sans-serif, Arial;font-size:14px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-decoration:none solid rgb(51, 51, 51);\"> 1143:1156</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

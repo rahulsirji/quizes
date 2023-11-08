@@ -1,0 +1,267 @@
+{
+    "title": "Quiz 2 - Synonyms",
+    "instruction": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  In the given question out of four alternatives, choose the one which best expresses the meaning of the given word and mark the correct answer.</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  There is </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">ample</span><span data-redactor-span=\"true\"> evidence to suggest that the institutional bias in favour of cow vigilantes is working against the interest of justice.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(i) abundant</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(ii) plentiful</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(iii) cramped</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (i)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (i) &amp;(ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None can replace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (iii)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  The current crisis was </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">triggered</span><span data-redactor-span=\"true\"> by Mr. Salvini’s decision to withdraw from the coalition.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(i) destroyed</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(ii) prevented</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(iii) caused</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (i)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (i) &amp;(ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None can replace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (iii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (ii)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  It is not difficult to </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">surmise</span><span data-redactor-span=\"true\"> that infirmities were built into the case in advance.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(i) assume</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(ii) utter</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(iii) prelect</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (i)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (i) &amp;(ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None can replace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (iii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (ii)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  India’s move to </span><span data-redactor-span=\"true\" style=\"font-weight: 700;\">revoke</span><span data-redactor-span=\"true\"> the special status of Jammu and Kashmir angered Pakistan.</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(i) abolish</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(ii) abrogate</span><span data-redactor-span=\"true\"> </span><span data-redactor-span=\"true\">(iii) renege</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (i)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Both (i) &amp;(ii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None can replace</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   All (i), (ii) &amp; (iii)</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Only (ii)</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Voracious</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   tenacious</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   truthful</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   spacious</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ravenous</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Abortive</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   fruitful</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   familiar</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   unsuccessful</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   consuming</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Tenacious</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   holding fast</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   collecting</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   fast running</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   intentional</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Terse</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   brief in speech</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   beyond fear</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   without honor</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   under strain</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 9,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Tentative</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   mocking</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   wry</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   experimental</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   prevalent</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 10,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Tenacity</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   ingratitude</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   decimation</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   splendor</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   perseverance</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 11,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Replenish</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   reinstate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   refill</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   refuse</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   polish</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 12,
+            "text": "<div style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\">  Relish</div>",
+            "options": [
+                "<div style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p>   savor</p></div>",
+                "<div style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p>   vindicate</p></div>",
+                "<div style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p>   avail</p></div>",
+                "<div style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p>   desire</p></div>",
+                "<div style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p>   none of the above</p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 13,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Repercussion</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   resistance</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   magnificence</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   acceptance</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   reaction</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 14,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Repellent</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   porous</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   stiff</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   elastic</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   unattractive</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   none of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 15,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Contemplate</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Scorn</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Discard</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Abandon</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Ruminate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Desert</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 16,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\">  Disproportionate</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Commensurate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Inordinate</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Equitable</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Correspondent</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Equivalent</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 17,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Derision</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Acclamation</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Commendation</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Accolade</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Satire</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Excogitate</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 18,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Maliciously</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Innocently</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Amiably</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Anodyne</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Benignly</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Spitefully</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 19,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Prominence</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Anonymity</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Obscurity</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Dominance</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Abstruseness</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Significance</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 20,
+            "text": "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 700; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><span data-redactor-span=\"true\"> Modified</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Immutable</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Incertitude</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Voracious</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   Overhaul</span></p></div>",
+                "<div data-redactor-span=\"true\" style=\"color: rgb(13, 13, 13); font-family: Calibri, sans-serif; font-size: 16px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p><span data-redactor-span=\"true\">   None of these</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

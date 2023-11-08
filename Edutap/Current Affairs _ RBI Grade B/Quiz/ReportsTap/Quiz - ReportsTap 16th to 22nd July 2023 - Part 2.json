@@ -1,0 +1,111 @@
+{
+    "title": "Quiz - ReportsTap 16th to 22nd July 2023 - Part 2",
+    "instruction": "<div style=\"color: rgb(51, 122, 183); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 122, 183);\"> The </span><span style=\"font-weight: 700; text-decoration: none solid rgb(51, 122, 183);\">__X__</span><span style=\"text-decoration: none solid rgb(51, 122, 183);\"> report expands the measures for women and girls to exercise their potential, their opportunities and the choices available to them. Policies that seek to further empower women and girls and achieve gender parity require robust data and measures that are comparable across countries and based on a sound methodology. While some such measures are available, the picture has been incomplete.</span>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\">&nbsp;</span>\n<p style=\"text-align: justify;\"><span style=\"color: rgb(51, 51, 51); text-decoration: none solid rgb(51, 51, 51);\">The </span><span style=\"color: rgb(51, 51, 51); font-weight: 700; text-decoration: none solid rgb(51, 51, 51);\">__X__</span><span style=\"color: rgb(51, 51, 51); text-decoration: none solid rgb(51, 51, 51);\"> report uses data for 114 countries, including new data on the progress towards the Sustainable Development Goals to fill some gaps. It introduces a new multidimensional framework to measure the status of women’s empowerment and gender equality across the world.</span>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\">&nbsp;</span></div>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> According to the recently (July 2023) released “Estimating potential health gains from increased access to safely managed drinking-water services following the Jal Jeevan Mission initiative” report, with universal coverage of safely managed drinking water in India, almost _______ DALYs (Disability Adjusted Life Years) from diarrhoeal disease are estimated to be averted, resulting in estimated cost savings of up to US _________.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 13 million &amp; US $ 202 billion</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 12 million &amp; US $ 205 billion</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 14 million &amp; US $101 billion</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 16 million &amp; US $104 billion</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 11 million &amp; US $100 billion</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> According to the recently (July 2023) released “Estimating potential health gains from increased access to safely managed drinking-water services following the Jal Jeevan Mission initiative” report, it is estimated that if the Jal Jeevan Mission provided safely managed drinking-water to all of India, this would result in averting almost _________ diarrhoeal disease deaths</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 100,000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 200,000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 300,000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 400,000</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 500,000</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 3,
+            "text": "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Which of the following organization,&nbsp;recently (July 2023), released “Estimating potential health gains from increased access to safely managed drinking-water services following the Jal Jeevan Mission initiative”?</span></div>",
+            "options": [
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> WHO</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> UNDP</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> NITI Aayog</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Ministry of the Health and Family Welfare</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Indian Council of Medical Research</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 4,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> As per the recently, (July 2023) released QS Best Student Cities survey by Quacquarelli Symonds (QS), _________ is India’s highest-ranked city in the list, followed by Delhi, Bengaluru and Chennai.</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Mumbai</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Banaras</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Dehradun</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Hyderabad</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> kochi</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 5,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 122, 183);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 122, 183);\"> According to the recently (July 2023), released QS Best Student Cities survey by Quacquarelli Symonds (QS), how many Indian cities have made it to the top 100 list?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> One</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Two</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Three</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> None</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Inter;font-size:14.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Four</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 6,
+            "text": "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> According to the recently, (July 2023) released report __X__ mentioned in the above passage, how many countries has achieved high women’s empowerment while maintaining a large gender gap.</span>\n<p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\">Which of the following statements are correct?</span></div>",
+            "options": [
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> None</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> One</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Two</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Three</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Five</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 7,
+            "text": "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> According to the recently (July 2023) released report __X__ mentioned in the above passage, only ______ of women globally live in countries with high women's empowerment and gender parity</span></div>",
+            "options": [
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> 4%</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> 3%</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> 2%</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> 1%</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> 5%</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 8,
+            "text": "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Which one of the following organisations has recently (July 2023) released the report </span><span style=\"font-weight: 700; text-decoration: none solid rgb(51, 51, 51);\">__X__</span><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> mentioned in the passage?</span></div>",
+            "options": [
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Women for Women International</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> UN Women </span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> The Global Fund for Women</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> The International Alliance of Women</span></p></div>",
+                "<div style=\"color: rgb(51, 51, 51); font-family: Inter; font-size: 14.6667px; font-style: normal; font-weight: 400; opacity: 1; vertical-align: baseline; top: auto; position: static;\"><p style=\"text-align: justify;\"><span style=\"text-decoration: none solid rgb(51, 51, 51);\"> Center for Reproductive Rights</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": null
+}

@@ -1,0 +1,33 @@
+{
+    "title": "Quiz - CurrentTap - Finance - 1st to 7th August 2023",
+    "instruction": "Solve the Given Question<br>",
+    "quiz": [
+        {
+            "position": 1,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Recently (August 2023), Securities and Exchange Board of India (SEBI) and Association of Portfolio Managers in India (APMI) have set standards for performance audit of portfolio management services (PMS) players. As per the standards, PMS players are required to conduct a performance audit annually and submit a report within ___ after the end of a financial year</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 60 days</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 45 days</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 30 days</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 90 days</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> 15 days</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        },
+        {
+            "position": 2,
+            "text": "<div data-redactor-span=\"true\"><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Recently, the Securities and Exchange Board of India (SEBI)&nbsp; has approved the Offer For Sale (OFS) through stock exchange mechanism for which of the following private-listed investment mechanism?</span></div>",
+            "options": [
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Real estate investment trusts (REITs)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> SME Funds</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Infrastructure Investment Trusts (InvIT)</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> Private equity funds</span></p></div>",
+                "<div data-redactor-span=\"true\"><p><span data-redactor-span=\"true\" style=\"color:rgb(51, 51, 51);font-family:Calibri, sans-serif;font-size:16.6667px;font-style:normal;font-weight:400;opacity:1;vertical-align:baseline;top:auto;position:static;text-align:justify;text-decoration:none solid rgb(51, 51, 51);\"> None of the above</span></p></div>"
+            ],
+            "correctOption": "",
+            "solution": ""
+        }
+    ],
+    "rc": "Solve the Given Question<br>"
+}
